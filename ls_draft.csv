@@ -722,110 +722,136 @@
 192,ZAF,109.0,2021,HDI_Rank,South Africa
 193,ZMB,154.0,2021,HDI_Rank,Zambia
 194,ZWE,146.0,2021,HDI_Rank,Zimbabwe
-0,AFG,1.38,2021,HDI_Score,Afghanistan
-1,AGO,2.18,2021,HDI_Score,Angola
-2,ALB,12.96,2021,HDI_Score,Albania
-5,ARG,15.81,2021,HDI_Score,Argentina
-6,ARM,5.95,2021,HDI_Score,Armenia
-10,AZE,10.56,2021,HDI_Score,Azerbaijan
-11,BDI,1.71,2021,HDI_Score,Burundi
-13,BEN,3.4,2021,HDI_Score,Benin
-14,BFA,2.96,2021,HDI_Score,Burkina Faso
-15,BGD,2.88,2021,HDI_Score,Bangladesh
-19,BIH,14.44,2021,HDI_Score,Bosnia and Herzegovina
-20,BLR,5.59,2021,HDI_Score,Belarus
-21,BLZ,12.21,2021,HDI_Score,Belize
-22,BOL,11.32,2021,HDI_Score,Bolivia
-23,BRA,18.87,2021,HDI_Score,Brazil
-26,BTN,32.43,2021,HDI_Score,Bhutan
-27,BWA,14.19,2021,HDI_Score,Botswana
-28,CAF,1.57,2021,HDI_Score,Central African Republic
-32,CHN,21.96,2021,HDI_Score,China (People's Republic of)
-33,CIV,3.26,2021,HDI_Score,Côte d'Ivoire
-34,CMR,2.13,2021,HDI_Score,Cameroon
-35,COD,2.75,2021,HDI_Score,Democratic Republic of the Congo
-36,COG,1.88,2021,HDI_Score,Congo
-37,COL,9.09,2021,HDI_Score,Colombia
-40,CRI,14.43,2021,HDI_Score,Costa Rica
-41,CUB,9.19,2021,HDI_Score,Cuba
-45,DJI,15.86,2021,HDI_Score,Djibouti
-48,DOM,9.54,2021,HDI_Score,Dominican Republic
-49,DZA,11.21,2021,HDI_Score,Algeria
-50,ECU,7.74,2021,HDI_Score,Ecuador
-51,EGY,8.22,2021,HDI_Score,Egypt
-52,ERI,3.47,2021,HDI_Score,Eritrea
-55,ETH,0.47,2021,HDI_Score,Ethiopia
-60,GAB,9.15,2021,HDI_Score,Gabon
-62,GEO,10.35,2021,HDI_Score,Georgia
-63,GHA,3.92,2021,HDI_Score,Ghana
-64,GIN,4.77,2021,HDI_Score,Guinea
-65,GMB,3.77,2021,HDI_Score,Gambia
-67,GNQ,15.89,2021,HDI_Score,Equatorial Guinea
-70,GTM,7.24,2021,HDI_Score,Guatemala
-73,HND,6.06,2021,HDI_Score,Honduras
-75,HTI,2.4,2021,HDI_Score,Haiti
-77,IDN,6.77,2021,HDI_Score,Indonesia
-78,IND,5.23,2021,HDI_Score,India
-80,IRN,13.16,2021,HDI_Score,Iran
-81,IRQ,11.87,2021,HDI_Score,Iraq
-85,JAM,9.95,2021,HDI_Score,Jamaica
-86,JOR,7.03,2021,HDI_Score,Jordan
-88,KAZ,34.41,2021,HDI_Score,Kazakhstan
-89,KEN,4.62,2021,HDI_Score,Kenya
-90,KGZ,7.82,2021,HDI_Score,Kyrgyzstan
-91,KHM,5.7,2021,HDI_Score,Cambodia
-96,LAO,9.64,2021,HDI_Score,Lao People's Democratic Republic
-97,LBN,12.4,2021,HDI_Score,Lebanon
-98,LBR,2.71,2021,HDI_Score,Liberia
-99,LBY,16.08,2021,HDI_Score,Libya
-102,LKA,4.36,2021,HDI_Score,Sri Lanka
-107,MAR,6.95,2021,HDI_Score,Morocco
-109,MDA,3.41,2021,HDI_Score,Moldova
-110,MDG,1.51,2021,HDI_Score,Madagascar
-112,MEX,10.85,2021,HDI_Score,Mexico
-114,MKD,12.29,2021,HDI_Score,North Macedonia
-115,MLI,4.57,2021,HDI_Score,Mali
-117,MMR,2.06,2021,HDI_Score,Myanmar
-119,MNG,10.62,2021,HDI_Score,Mongolia
-120,MOZ,2.19,2021,HDI_Score,Mozambique
-121,MRT,7.75,2021,HDI_Score,Mauritania
-123,MWI,1.71,2021,HDI_Score,Malawi
-124,MYS,19.59,2021,HDI_Score,Malaysia
-125,NAM,11.92,2021,HDI_Score,Namibia
-126,NER,4.19,2021,HDI_Score,Niger
-127,NGA,3.6,2021,HDI_Score,Nigeria
-128,NIC,5.4,2021,HDI_Score,Nicaragua
-131,NPL,5.58,2021,HDI_Score,Nepal
-135,PAK,3.45,2021,HDI_Score,Pakistan
-136,PAN,13.48,2021,HDI_Score,Panama
-137,PER,9.43,2021,HDI_Score,Peru
-138,PHL,8.77,2021,HDI_Score,Philippines
-140,PNG,5.23,2021,HDI_Score,Papua New Guinea
-142,PRK,0.75,2021,HDI_Score,Democratic People's Republic of Korea
-144,PRY,18.93,2021,HDI_Score,Paraguay
-149,RWA,2.0,2021,HDI_Score,Rwanda
-151,SDN,11.25,2021,HDI_Score,Sudan
-152,SEN,4.09,2021,HDI_Score,Senegal
-155,SLE,2.12,2021,HDI_Score,Sierra Leone
-156,SLV,5.87,2021,HDI_Score,El Salvador
-158,SOM,3.5,2021,HDI_Score,Somalia
-159,SRB,15.65,2021,HDI_Score,Serbia
-160,SSD,4.78,2021,HDI_Score,South Sudan
-168,SYR,1.91,2021,HDI_Score,Syrian Arab Republic
-169,TCD,8.26,2021,HDI_Score,Chad
-170,TGO,4.14,2021,HDI_Score,Togo
-171,THA,11.75,2021,HDI_Score,Thailand
-172,TJK,5.75,2021,HDI_Score,Tajikistan
-173,TKM,13.13,2021,HDI_Score,Turkmenistan
-177,TUN,9.17,2021,HDI_Score,Tunisia
-178,TUR,17.49,2021,HDI_Score,Türkiye
-180,TZA,1.58,2021,HDI_Score,Tanzania
-181,UGA,1.92,2021,HDI_Score,Uganda
-182,UKR,11.91,2021,HDI_Score,Ukraine
-185,UZB,6.12,2021,HDI_Score,Uzbekistan
-187,VEN,9.6,2021,HDI_Score,Venezuela
-188,VNM,8.52,2021,HDI_Score,Viet Nam
-191,YEM,2.89,2021,HDI_Score,Yemen
-192,ZAF,7.55,2021,HDI_Score,South Africa
-193,ZMB,2.38,2021,HDI_Score,Zambia
-194,ZWE,1.21,2021,HDI_Score,Zimbabwe
+0,AFG,0.478,2021,HDI_Score,Afghanistan
+1,AGO,0.586,2021,HDI_Score,Angola
+2,ALB,0.796,2021,HDI_Score,Albania
+5,ARG,0.842,2021,HDI_Score,Argentina
+6,ARM,0.759,2021,HDI_Score,Armenia
+7,ATG,0.788,2021,HDI_Score,Antigua and Barbuda
+10,AZE,0.745,2021,HDI_Score,Azerbaijan
+11,BDI,0.426,2021,HDI_Score,Burundi
+13,BEN,0.525,2021,HDI_Score,Benin
+14,BFA,0.449,2021,HDI_Score,Burkina Faso
+15,BGD,0.661,2021,HDI_Score,Bangladesh
+19,BIH,0.78,2021,HDI_Score,Bosnia and Herzegovina
+20,BLR,0.808,2021,HDI_Score,Belarus
+21,BLZ,0.683,2021,HDI_Score,Belize
+22,BOL,0.692,2021,HDI_Score,Bolivia
+23,BRA,0.754,2021,HDI_Score,Brazil
+26,BTN,0.666,2021,HDI_Score,Bhutan
+27,BWA,0.693,2021,HDI_Score,Botswana
+28,CAF,0.404,2021,HDI_Score,Central African Republic
+32,CHN,0.768,2021,HDI_Score,China (People's Republic of)
+33,CIV,0.55,2021,HDI_Score,Côte d'Ivoire
+34,CMR,0.576,2021,HDI_Score,Cameroon
+35,COD,0.479,2021,HDI_Score,Democratic Republic of the Congo
+36,COG,0.571,2021,HDI_Score,Congo
+37,COL,0.752,2021,HDI_Score,Colombia
+38,COM,0.558,2021,HDI_Score,Comoros
+39,CPV,0.662,2021,HDI_Score,Cabo Verde
+40,CRI,0.809,2021,HDI_Score,Costa Rica
+41,CUB,0.764,2021,HDI_Score,Cuba
+45,DJI,0.509,2021,HDI_Score,Djibouti
+46,DMA,0.72,2021,HDI_Score,Dominica
+48,DOM,0.767,2021,HDI_Score,Dominican Republic
+49,DZA,0.745,2021,HDI_Score,Algeria
+50,ECU,0.74,2021,HDI_Score,Ecuador
+51,EGY,0.731,2021,HDI_Score,Egypt
+52,ERI,0.492,2021,HDI_Score,Eritrea
+55,ETH,0.498,2021,HDI_Score,Ethiopia
+57,FJI,0.73,2021,HDI_Score,Fiji
+59,FSM,0.628,2021,HDI_Score,Micronesia
+60,GAB,0.706,2021,HDI_Score,Gabon
+62,GEO,0.802,2021,HDI_Score,Georgia
+63,GHA,0.632,2021,HDI_Score,Ghana
+64,GIN,0.465,2021,HDI_Score,Guinea
+65,GMB,0.5,2021,HDI_Score,Gambia
+66,GNB,0.483,2021,HDI_Score,Guinea-Bissau
+67,GNQ,0.596,2021,HDI_Score,Equatorial Guinea
+69,GRD,0.795,2021,HDI_Score,Grenada
+70,GTM,0.627,2021,HDI_Score,Guatemala
+71,GUY,0.714,2021,HDI_Score,Guyana
+73,HND,0.621,2021,HDI_Score,Honduras
+75,HTI,0.535,2021,HDI_Score,Haiti
+77,IDN,0.705,2021,HDI_Score,Indonesia
+78,IND,0.633,2021,HDI_Score,India
+80,IRN,0.774,2021,HDI_Score,Iran
+81,IRQ,0.686,2021,HDI_Score,Iraq
+85,JAM,0.709,2021,HDI_Score,Jamaica
+86,JOR,0.72,2021,HDI_Score,Jordan
+88,KAZ,0.811,2021,HDI_Score,Kazakhstan
+89,KEN,0.575,2021,HDI_Score,Kenya
+90,KGZ,0.692,2021,HDI_Score,Kyrgyzstan
+91,KHM,0.593,2021,HDI_Score,Cambodia
+92,KIR,0.624,2021,HDI_Score,Kiribati
+96,LAO,0.607,2021,HDI_Score,Lao People's Democratic Republic
+97,LBN,0.706,2021,HDI_Score,Lebanon
+98,LBR,0.481,2021,HDI_Score,Liberia
+99,LBY,0.718,2021,HDI_Score,Libya
+100,LCA,0.715,2021,HDI_Score,Saint Lucia
+102,LKA,0.782,2021,HDI_Score,Sri Lanka
+103,LSO,0.514,2021,HDI_Score,Lesotho
+107,MAR,0.683,2021,HDI_Score,Morocco
+109,MDA,0.767,2021,HDI_Score,Moldova
+110,MDG,0.501,2021,HDI_Score,Madagascar
+111,MDV,0.747,2021,HDI_Score,Maldives
+112,MEX,0.758,2021,HDI_Score,Mexico
+113,MHL,0.639,2021,HDI_Score,Marshall Islands
+114,MKD,0.77,2021,HDI_Score,North Macedonia
+115,MLI,0.428,2021,HDI_Score,Mali
+117,MMR,0.585,2021,HDI_Score,Myanmar
+118,MNE,0.832,2021,HDI_Score,Montenegro
+119,MNG,0.739,2021,HDI_Score,Mongolia
+120,MOZ,0.446,2021,HDI_Score,Mozambique
+121,MRT,0.556,2021,HDI_Score,Mauritania
+122,MUS,0.802,2021,HDI_Score,Mauritius
+123,MWI,0.512,2021,HDI_Score,Malawi
+124,MYS,0.803,2021,HDI_Score,Malaysia
+125,NAM,0.615,2021,HDI_Score,Namibia
+126,NER,0.4,2021,HDI_Score,Niger
+127,NGA,0.535,2021,HDI_Score,Nigeria
+128,NIC,0.667,2021,HDI_Score,Nicaragua
+131,NPL,0.602,2021,HDI_Score,Nepal
+135,PAK,0.544,2021,HDI_Score,Pakistan
+136,PAN,0.805,2021,HDI_Score,Panama
+137,PER,0.762,2021,HDI_Score,Peru
+138,PHL,0.699,2021,HDI_Score,Philippines
+139,PLW,0.767,2021,HDI_Score,Palau
+140,PNG,0.558,2021,HDI_Score,Papua New Guinea
+144,PRY,0.717,2021,HDI_Score,Paraguay
+145,PSE,0.715,2021,HDI_Score,West Bank and Gaza Strip
+149,RWA,0.534,2021,HDI_Score,Rwanda
+151,SDN,0.508,2021,HDI_Score,Sudan
+152,SEN,0.511,2021,HDI_Score,Senegal
+154,SLB,0.564,2021,HDI_Score,Solomon Islands
+155,SLE,0.477,2021,HDI_Score,Sierra Leone
+156,SLV,0.675,2021,HDI_Score,El Salvador
+159,SRB,0.802,2021,HDI_Score,Serbia
+160,SSD,0.385,2021,HDI_Score,South Sudan
+161,STP,0.618,2021,HDI_Score,Sao Tome and Principe
+162,SUR,0.73,2021,HDI_Score,Suriname
+166,SWZ,0.597,2021,HDI_Score,Eswatini
+168,SYR,0.577,2021,HDI_Score,Syrian Arab Republic
+169,TCD,0.394,2021,HDI_Score,Chad
+170,TGO,0.539,2021,HDI_Score,Togo
+171,THA,0.8,2021,HDI_Score,Thailand
+172,TJK,0.685,2021,HDI_Score,Tajikistan
+173,TKM,0.745,2021,HDI_Score,Turkmenistan
+174,TLS,0.607,2021,HDI_Score,Timor-Leste
+175,TON,0.745,2021,HDI_Score,Tonga
+177,TUN,0.731,2021,HDI_Score,Tunisia
+178,TUR,0.838,2021,HDI_Score,Türkiye
+179,TUV,0.641,2021,HDI_Score,Tuvalu
+180,TZA,0.549,2021,HDI_Score,Tanzania
+181,UGA,0.525,2021,HDI_Score,Uganda
+182,UKR,0.773,2021,HDI_Score,Ukraine
+185,UZB,0.727,2021,HDI_Score,Uzbekistan
+186,VCT,0.751,2021,HDI_Score,Saint Vincent and the Grenadines
+187,VEN,0.691,2021,HDI_Score,Venezuela
+188,VNM,0.703,2021,HDI_Score,Viet Nam
+189,VUT,0.607,2021,HDI_Score,Vanuatu
+190,WSM,0.707,2021,HDI_Score,Samoa
+191,YEM,0.455,2021,HDI_Score,Yemen
+192,ZAF,0.713,2021,HDI_Score,South Africa
+193,ZMB,0.565,2021,HDI_Score,Zambia
+194,ZWE,0.593,2021,HDI_Score,Zimbabwe
