@@ -131,59 +131,59 @@
 261,MDV,147.0,YR2019,Doing_Business_Rank,Maldives
 263,BIH,90.0,YR2019,Doing_Business_Rank,Bosnia and Herzegovina
 264,IRQ,172.0,YR2019,Doing_Business_Rank,Iraq
-279,PER,30.1,YR2020,SI.POV.NAHC,Peru
-281,CRI,30.0,YR2020,SI.POV.NAHC,Costa Rica
-294,VUT,15.9,YR2020,SI.POV.NAHC,Vanuatu
-328,KAZ,5.3,YR2020,SI.POV.NAHC,Kazakhstan
-364,MNG,27.8,YR2020,SI.POV.NAHC,Mongolia
-371,BLR,4.8,YR2020,SI.POV.NAHC,Belarus
-382,CHN,0.0,YR2020,SI.POV.NAHC,China (People's Republic of)
-389,ECU,33.0,YR2020,SI.POV.NAHC,Ecuador
-420,KIR,21.9,YR2020,SI.POV.NAHC,Kiribati
-426,MLI,41.9,YR2020,SI.POV.NAHC,Mali
-430,COL,42.5,YR2020,SI.POV.NAHC,Colombia
-431,SLV,26.2,YR2020,SI.POV.NAHC,El Salvador
-446,GEO,21.3,YR2020,SI.POV.NAHC,Georgia
-462,UKR,1.4,YR2020,SI.POV.NAHC,Ukraine
-468,KGZ,25.3,YR2020,SI.POV.NAHC,Kyrgyzstan
-486,BOL,39.0,YR2020,SI.POV.NAHC,Bolivia
-493,ARG,42.0,YR2020,SI.POV.NAHC,Argentina
-494,PRY,26.9,YR2020,SI.POV.NAHC,Paraguay
-499,MEX,43.9,YR2020,SI.POV.NAHC,Mexico
-500,THA,6.8,YR2020,SI.POV.NAHC,Thailand
-503,IDN,9.8,YR2020,SI.POV.NAHC,Indonesia
-510,ARM,27.0,YR2020,SI.POV.NAHC,Armenia
-514,MDA,26.8,YR2020,SI.POV.NAHC,Moldova
-269,TJK,26.3,YR2019,SI.POV.NAHC,Tajikistan
-273,UGA,20.3,YR2019,SI.POV.NAHC,Uganda
-280,DOM,21.0,YR2019,SI.POV.NAHC,Dominican Republic
-293,ZWE,38.3,YR2019,SI.POV.NAHC,Zimbabwe
-302,FJI,24.1,YR2019,SI.POV.NAHC,Fiji
-308,MYS,8.4,YR2019,SI.POV.NAHC,Malaysia
-319,TUR,15.0,YR2019,SI.POV.NAHC,Türkiye
-321,ALB,21.8,YR2019,SI.POV.NAHC,Albania
-324,BEN,38.5,YR2019,SI.POV.NAHC,Benin
-338,PAN,21.5,YR2019,SI.POV.NAHC,Panama
-381,MWI,50.7,YR2019,SI.POV.NAHC,Malawi
-422,MNE,22.6,YR2019,SI.POV.NAHC,Montenegro
-434,SRB,21.7,YR2019,SI.POV.NAHC,Serbia
-515,HND,48.0,YR2019,SI.POV.NAHC,Honduras
-527,MDV,5.4,YR2019,SI.POV.NAHC,Maldives
-289,PAK,21.9,YR2018,SI.POV.NAHC,Pakistan
-299,TCD,42.3,YR2018,SI.POV.NAHC,Chad
-313,JOR,15.7,YR2018,SI.POV.NAHC,Jordan
-318,VNM,6.7,YR2018,SI.POV.NAHC,Viet Nam
-363,CIV,39.5,YR2018,SI.POV.NAHC,Côte d'Ivoire
-373,LAO,18.3,YR2018,SI.POV.NAHC,Lao People's Democratic Republic
-377,MKD,21.6,YR2018,SI.POV.NAHC,North Macedonia
-411,GIN,43.7,YR2018,SI.POV.NAHC,Guinea
-416,BFA,41.4,YR2018,SI.POV.NAHC,Burkina Faso
-439,GNB,47.7,YR2018,SI.POV.NAHC,Guinea-Bissau
-444,NER,40.8,YR2018,SI.POV.NAHC,Niger
-467,NGA,40.1,YR2018,SI.POV.NAHC,Nigeria
-506,AGO,32.3,YR2018,SI.POV.NAHC,Angola
-516,SLE,56.8,YR2018,SI.POV.NAHC,Sierra Leone
-526,PHL,16.7,YR2018,SI.POV.NAHC,Philippines
+279,PER,30.1,YR2020,National_Poverty_Ration,Peru
+281,CRI,30.0,YR2020,National_Poverty_Ration,Costa Rica
+294,VUT,15.9,YR2020,National_Poverty_Ration,Vanuatu
+328,KAZ,5.3,YR2020,National_Poverty_Ration,Kazakhstan
+364,MNG,27.8,YR2020,National_Poverty_Ration,Mongolia
+371,BLR,4.8,YR2020,National_Poverty_Ration,Belarus
+382,CHN,0.0,YR2020,National_Poverty_Ration,China (People's Republic of)
+389,ECU,33.0,YR2020,National_Poverty_Ration,Ecuador
+420,KIR,21.9,YR2020,National_Poverty_Ration,Kiribati
+426,MLI,41.9,YR2020,National_Poverty_Ration,Mali
+430,COL,42.5,YR2020,National_Poverty_Ration,Colombia
+431,SLV,26.2,YR2020,National_Poverty_Ration,El Salvador
+446,GEO,21.3,YR2020,National_Poverty_Ration,Georgia
+462,UKR,1.4,YR2020,National_Poverty_Ration,Ukraine
+468,KGZ,25.3,YR2020,National_Poverty_Ration,Kyrgyzstan
+486,BOL,39.0,YR2020,National_Poverty_Ration,Bolivia
+493,ARG,42.0,YR2020,National_Poverty_Ration,Argentina
+494,PRY,26.9,YR2020,National_Poverty_Ration,Paraguay
+499,MEX,43.9,YR2020,National_Poverty_Ration,Mexico
+500,THA,6.8,YR2020,National_Poverty_Ration,Thailand
+503,IDN,9.8,YR2020,National_Poverty_Ration,Indonesia
+510,ARM,27.0,YR2020,National_Poverty_Ration,Armenia
+514,MDA,26.8,YR2020,National_Poverty_Ration,Moldova
+269,TJK,26.3,YR2019,National_Poverty_Ration,Tajikistan
+273,UGA,20.3,YR2019,National_Poverty_Ration,Uganda
+280,DOM,21.0,YR2019,National_Poverty_Ration,Dominican Republic
+293,ZWE,38.3,YR2019,National_Poverty_Ration,Zimbabwe
+302,FJI,24.1,YR2019,National_Poverty_Ration,Fiji
+308,MYS,8.4,YR2019,National_Poverty_Ration,Malaysia
+319,TUR,15.0,YR2019,National_Poverty_Ration,Türkiye
+321,ALB,21.8,YR2019,National_Poverty_Ration,Albania
+324,BEN,38.5,YR2019,National_Poverty_Ration,Benin
+338,PAN,21.5,YR2019,National_Poverty_Ration,Panama
+381,MWI,50.7,YR2019,National_Poverty_Ration,Malawi
+422,MNE,22.6,YR2019,National_Poverty_Ration,Montenegro
+434,SRB,21.7,YR2019,National_Poverty_Ration,Serbia
+515,HND,48.0,YR2019,National_Poverty_Ration,Honduras
+527,MDV,5.4,YR2019,National_Poverty_Ration,Maldives
+289,PAK,21.9,YR2018,National_Poverty_Ration,Pakistan
+299,TCD,42.3,YR2018,National_Poverty_Ration,Chad
+313,JOR,15.7,YR2018,National_Poverty_Ration,Jordan
+318,VNM,6.7,YR2018,National_Poverty_Ration,Viet Nam
+363,CIV,39.5,YR2018,National_Poverty_Ration,Côte d'Ivoire
+373,LAO,18.3,YR2018,National_Poverty_Ration,Lao People's Democratic Republic
+377,MKD,21.6,YR2018,National_Poverty_Ration,North Macedonia
+411,GIN,43.7,YR2018,National_Poverty_Ration,Guinea
+416,BFA,41.4,YR2018,National_Poverty_Ration,Burkina Faso
+439,GNB,47.7,YR2018,National_Poverty_Ration,Guinea-Bissau
+444,NER,40.8,YR2018,National_Poverty_Ration,Niger
+467,NGA,40.1,YR2018,National_Poverty_Ration,Nigeria
+506,AGO,32.3,YR2018,National_Poverty_Ration,Angola
+516,SLE,56.8,YR2018,National_Poverty_Ration,Sierra Leone
+526,PHL,16.7,YR2018,National_Poverty_Ration,Philippines
 534,MRT,2.44536827261913,YR2021,GDP_Growth,Mauritania
 535,TJK,9.2001904308498,YR2021,GDP_Growth,Tajikistan
 536,GUY,20.0600109474921,YR2021,GDP_Growth,Guyana
