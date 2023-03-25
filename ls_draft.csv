@@ -1,833 +1,833 @@
 ,economy,Value,last_year,indicator,Country
-2,MRT,152.0,YR2019,Doing_Business_Rank,Mauritania
-3,TJK,106.0,YR2019,Doing_Business_Rank,Tajikistan
-4,GUY,134.0,YR2019,Doing_Business_Rank,Guyana
-6,LSO,122.0,YR2019,Doing_Business_Rank,Lesotho
-7,UGA,116.0,YR2019,Doing_Business_Rank,Uganda
-8,DMA,111.0,YR2019,Doing_Business_Rank,Dominica
-9,TUN,78.0,YR2019,Doing_Business_Rank,Tunisia
-11,ZAF,84.0,YR2019,Doing_Business_Rank,South Africa
-12,BGD,168.0,YR2019,Doing_Business_Rank,Bangladesh
-13,PER,76.0,YR2019,Doing_Business_Rank,Peru
-14,DOM,115.0,YR2019,Doing_Business_Rank,Dominican Republic
-15,CRI,74.0,YR2019,Doing_Business_Rank,Costa Rica
-17,SYR,176.0,YR2019,Doing_Business_Rank,Syrian Arab Republic
-18,TGO,97.0,YR2019,Doing_Business_Rank,Togo
-20,YEM,187.0,YR2019,Doing_Business_Rank,Yemen
-22,AZE,28.0,YR2019,Doing_Business_Rank,Azerbaijan
-23,PAK,108.0,YR2019,Doing_Business_Rank,Pakistan
-26,NIC,142.0,YR2019,Doing_Business_Rank,Nicaragua
-27,ZWE,140.0,YR2019,Doing_Business_Rank,Zimbabwe
-28,VUT,107.0,YR2019,Doing_Business_Rank,Vanuatu
-32,VCT,130.0,YR2019,Doing_Business_Rank,Saint Vincent and the Grenadines
-33,TCD,182.0,YR2019,Doing_Business_Rank,Chad
-36,FJI,102.0,YR2019,Doing_Business_Rank,Fiji
-38,AFG,173.0,YR2019,Doing_Business_Rank,Afghanistan
-41,KHM,144.0,YR2019,Doing_Business_Rank,Cambodia
-42,MYS,12.0,YR2019,Doing_Business_Rank,Malaysia
-43,SUR,162.0,YR2019,Doing_Business_Rank,Suriname
-45,NPL,94.0,YR2019,Doing_Business_Rank,Nepal
-46,GAB,169.0,YR2019,Doing_Business_Rank,Gabon
-47,JOR,75.0,YR2019,Doing_Business_Rank,Jordan
-51,DZA,157.0,YR2019,Doing_Business_Rank,Algeria
-52,VNM,70.0,YR2019,Doing_Business_Rank,Viet Nam
-53,TUR,34.0,YR2019,Doing_Business_Rank,Türkiye
-55,ALB,82.0,YR2019,Doing_Business_Rank,Albania
-57,BDI,166.0,YR2019,Doing_Business_Rank,Burundi
-58,BEN,149.0,YR2019,Doing_Business_Rank,Benin
-59,STP,170.0,YR2019,Doing_Business_Rank,Sao Tome and Principe
-61,VEN,188.0,YR2019,Doing_Business_Rank,Venezuela
-62,KAZ,25.0,YR2019,Doing_Business_Rank,Kazakhstan
-68,GMB,155.0,YR2019,Doing_Business_Rank,Gambia
-69,CAF,184.0,YR2019,Doing_Business_Rank,Central African Republic
-71,SSD,185.0,YR2019,Doing_Business_Rank,South Sudan
-72,PAN,86.0,YR2019,Doing_Business_Rank,Panama
-74,LBN,143.0,YR2019,Doing_Business_Rank,Lebanon
-78,PSE,117.0,YR2019,Doing_Business_Rank,West Bank and Gaza Strip
-79,GNQ,178.0,YR2019,Doing_Business_Rank,Equatorial Guinea
-80,IND,62.0,YR2019,Doing_Business_Rank,India
-84,COD,183.0,YR2019,Doing_Business_Rank,Democratic Republic of the Congo
-87,HTI,179.0,YR2019,Doing_Business_Rank,Haiti
-89,CPV,137.0,YR2019,Doing_Business_Rank,Cabo Verde
-91,SEN,123.0,YR2019,Doing_Business_Rank,Senegal
-97,CIV,110.0,YR2019,Doing_Business_Rank,Côte d'Ivoire
-98,MNG,81.0,YR2019,Doing_Business_Rank,Mongolia
-101,ERI,189.0,YR2019,Doing_Business_Rank,Eritrea
-105,BLR,49.0,YR2019,Doing_Business_Rank,Belarus
-107,LAO,154.0,YR2019,Doing_Business_Rank,Lao People's Democratic Republic
-108,LBY,186.0,YR2019,Doing_Business_Rank,Libya
-111,MKD,17.0,YR2019,Doing_Business_Rank,North Macedonia
-113,BWA,87.0,YR2019,Doing_Business_Rank,Botswana
-114,SWZ,121.0,YR2019,Doing_Business_Rank,Eswatini
-115,MWI,109.0,YR2019,Doing_Business_Rank,Malawi
-116,CHN,32.0,YR2019,Doing_Business_Rank,China (People's Republic of)
-118,KEN,56.0,YR2019,Doing_Business_Rank,Kenya
-119,WSM,98.0,YR2019,Doing_Business_Rank,Samoa
-120,GRD,146.0,YR2019,Doing_Business_Rank,Grenada
-123,ECU,129.0,YR2019,Doing_Business_Rank,Ecuador
-127,TON,103.0,YR2019,Doing_Business_Rank,Tonga
-129,DJI,112.0,YR2019,Doing_Business_Rank,Djibouti
-130,LCA,93.0,YR2019,Doing_Business_Rank,Saint Lucia
-133,SOM,190.0,YR2019,Doing_Business_Rank,Somalia
-135,FSM,158.0,YR2019,Doing_Business_Rank,Micronesia
-137,JAM,71.0,YR2019,Doing_Business_Rank,Jamaica
-141,CMR,167.0,YR2019,Doing_Business_Rank,Cameroon
-145,GIN,156.0,YR2019,Doing_Business_Rank,Guinea
-150,BFA,151.0,YR2019,Doing_Business_Rank,Burkina Faso
-151,UZB,69.0,YR2019,Doing_Business_Rank,Uzbekistan
-152,MUS,13.0,YR2019,Doing_Business_Rank,Mauritius
-154,KIR,164.0,YR2019,Doing_Business_Rank,Kiribati
-156,MNE,50.0,YR2019,Doing_Business_Rank,Montenegro
-157,MHL,153.0,YR2019,Doing_Business_Rank,Marshall Islands
-160,MLI,148.0,YR2019,Doing_Business_Rank,Mali
-164,COL,67.0,YR2019,Doing_Business_Rank,Colombia
-165,SLV,91.0,YR2019,Doing_Business_Rank,El Salvador
-167,COM,160.0,YR2019,Doing_Business_Rank,Comoros
-168,SRB,44.0,YR2019,Doing_Business_Rank,Serbia
-169,MDG,161.0,YR2019,Doing_Business_Rank,Madagascar
-171,GTM,96.0,YR2019,Doing_Business_Rank,Guatemala
-173,GNB,174.0,YR2019,Doing_Business_Rank,Guinea-Bissau
-177,TZA,141.0,YR2019,Doing_Business_Rank,Tanzania
-178,NER,132.0,YR2019,Doing_Business_Rank,Niger
-180,GEO,7.0,YR2019,Doing_Business_Rank,Georgia
-182,TLS,181.0,YR2019,Doing_Business_Rank,Timor-Leste
-189,LBR,175.0,YR2019,Doing_Business_Rank,Liberia
-192,ATG,113.0,YR2019,Doing_Business_Rank,Antigua and Barbuda
-193,BRA,124.0,YR2019,Doing_Business_Rank,Brazil
-194,RWA,38.0,YR2019,Doing_Business_Rank,Rwanda
-196,UKR,64.0,YR2019,Doing_Business_Rank,Ukraine
-199,SLB,136.0,YR2019,Doing_Business_Rank,Solomon Islands
-201,NGA,131.0,YR2019,Doing_Business_Rank,Nigeria
-202,KGZ,80.0,YR2019,Doing_Business_Rank,Kyrgyzstan
-203,MAR,53.0,YR2019,Doing_Business_Rank,Morocco
-204,GHA,118.0,YR2019,Doing_Business_Rank,Ghana
-205,ETH,159.0,YR2019,Doing_Business_Rank,Ethiopia
-208,BTN,89.0,YR2019,Doing_Business_Rank,Bhutan
-212,XKX,57.0,YR2019,Doing_Business_Rank,Kosovo
-213,PLW,145.0,YR2019,Doing_Business_Rank,Palau
-217,ZMB,85.0,YR2019,Doing_Business_Rank,Zambia
-219,MMR,165.0,YR2019,Doing_Business_Rank,Myanmar
-220,BOL,150.0,YR2019,Doing_Business_Rank,Bolivia
-224,PNG,120.0,YR2019,Doing_Business_Rank,Papua New Guinea
-226,NAM,104.0,YR2019,Doing_Business_Rank,Namibia
-227,ARG,126.0,YR2019,Doing_Business_Rank,Argentina
-228,PRY,125.0,YR2019,Doing_Business_Rank,Paraguay
-229,BLZ,135.0,YR2019,Doing_Business_Rank,Belize
-230,COG,180.0,YR2019,Doing_Business_Rank,Congo
-233,MEX,60.0,YR2019,Doing_Business_Rank,Mexico
-234,THA,21.0,YR2019,Doing_Business_Rank,Thailand
-237,IDN,73.0,YR2019,Doing_Business_Rank,Indonesia
-238,MOZ,138.0,YR2019,Doing_Business_Rank,Mozambique
-240,AGO,177.0,YR2019,Doing_Business_Rank,Angola
-243,IRN,127.0,YR2019,Doing_Business_Rank,Iran
-244,ARM,47.0,YR2019,Doing_Business_Rank,Armenia
-248,MDA,48.0,YR2019,Doing_Business_Rank,Moldova
-249,HND,133.0,YR2019,Doing_Business_Rank,Honduras
-250,SLE,163.0,YR2019,Doing_Business_Rank,Sierra Leone
-252,SDN,171.0,YR2019,Doing_Business_Rank,Sudan
-254,LKA,99.0,YR2019,Doing_Business_Rank,Sri Lanka
-259,EGY,114.0,YR2019,Doing_Business_Rank,Egypt
-260,PHL,95.0,YR2019,Doing_Business_Rank,Philippines
-261,MDV,147.0,YR2019,Doing_Business_Rank,Maldives
-263,BIH,90.0,YR2019,Doing_Business_Rank,Bosnia and Herzegovina
-264,IRQ,172.0,YR2019,Doing_Business_Rank,Iraq
-279,PER,30.1,YR2020,National_Poverty_Ration,Peru
-281,CRI,30.0,YR2020,National_Poverty_Ration,Costa Rica
-294,VUT,15.9,YR2020,National_Poverty_Ration,Vanuatu
-328,KAZ,5.3,YR2020,National_Poverty_Ration,Kazakhstan
-364,MNG,27.8,YR2020,National_Poverty_Ration,Mongolia
-371,BLR,4.8,YR2020,National_Poverty_Ration,Belarus
-382,CHN,0.0,YR2020,National_Poverty_Ration,China (People's Republic of)
-389,ECU,33.0,YR2020,National_Poverty_Ration,Ecuador
-420,KIR,21.9,YR2020,National_Poverty_Ration,Kiribati
-426,MLI,41.9,YR2020,National_Poverty_Ration,Mali
-430,COL,42.5,YR2020,National_Poverty_Ration,Colombia
-431,SLV,26.2,YR2020,National_Poverty_Ration,El Salvador
-446,GEO,21.3,YR2020,National_Poverty_Ration,Georgia
-462,UKR,1.4,YR2020,National_Poverty_Ration,Ukraine
-468,KGZ,25.3,YR2020,National_Poverty_Ration,Kyrgyzstan
-486,BOL,39.0,YR2020,National_Poverty_Ration,Bolivia
-493,ARG,42.0,YR2020,National_Poverty_Ration,Argentina
-494,PRY,26.9,YR2020,National_Poverty_Ration,Paraguay
-499,MEX,43.9,YR2020,National_Poverty_Ration,Mexico
-500,THA,6.8,YR2020,National_Poverty_Ration,Thailand
-503,IDN,9.8,YR2020,National_Poverty_Ration,Indonesia
-510,ARM,27.0,YR2020,National_Poverty_Ration,Armenia
-514,MDA,26.8,YR2020,National_Poverty_Ration,Moldova
-269,TJK,26.3,YR2019,National_Poverty_Ration,Tajikistan
-273,UGA,20.3,YR2019,National_Poverty_Ration,Uganda
-280,DOM,21.0,YR2019,National_Poverty_Ration,Dominican Republic
-293,ZWE,38.3,YR2019,National_Poverty_Ration,Zimbabwe
-302,FJI,24.1,YR2019,National_Poverty_Ration,Fiji
-308,MYS,8.4,YR2019,National_Poverty_Ration,Malaysia
-319,TUR,15.0,YR2019,National_Poverty_Ration,Türkiye
-321,ALB,21.8,YR2019,National_Poverty_Ration,Albania
-324,BEN,38.5,YR2019,National_Poverty_Ration,Benin
-338,PAN,21.5,YR2019,National_Poverty_Ration,Panama
-381,MWI,50.7,YR2019,National_Poverty_Ration,Malawi
-422,MNE,22.6,YR2019,National_Poverty_Ration,Montenegro
-434,SRB,21.7,YR2019,National_Poverty_Ration,Serbia
-515,HND,48.0,YR2019,National_Poverty_Ration,Honduras
-527,MDV,5.4,YR2019,National_Poverty_Ration,Maldives
-289,PAK,21.9,YR2018,National_Poverty_Ration,Pakistan
-299,TCD,42.3,YR2018,National_Poverty_Ration,Chad
-313,JOR,15.7,YR2018,National_Poverty_Ration,Jordan
-318,VNM,6.7,YR2018,National_Poverty_Ration,Viet Nam
-363,CIV,39.5,YR2018,National_Poverty_Ration,Côte d'Ivoire
-373,LAO,18.3,YR2018,National_Poverty_Ration,Lao People's Democratic Republic
-377,MKD,21.6,YR2018,National_Poverty_Ration,North Macedonia
-411,GIN,43.7,YR2018,National_Poverty_Ration,Guinea
-416,BFA,41.4,YR2018,National_Poverty_Ration,Burkina Faso
-439,GNB,47.7,YR2018,National_Poverty_Ration,Guinea-Bissau
-444,NER,40.8,YR2018,National_Poverty_Ration,Niger
-467,NGA,40.1,YR2018,National_Poverty_Ration,Nigeria
-506,AGO,32.3,YR2018,National_Poverty_Ration,Angola
-516,SLE,56.8,YR2018,National_Poverty_Ration,Sierra Leone
-526,PHL,16.7,YR2018,National_Poverty_Ration,Philippines
-534,MRT,2.44536827261913,YR2021,GDP_Growth,Mauritania
-535,TJK,9.2001904308498,YR2021,GDP_Growth,Tajikistan
-536,GUY,20.0600109474921,YR2021,GDP_Growth,Guyana
-538,LSO,1.34762315508203,YR2021,GDP_Growth,Lesotho
-539,UGA,3.53658034070898,YR2021,GDP_Growth,Uganda
-540,DMA,6.68192571791273,YR2021,GDP_Growth,Dominica
-541,TUN,4.32277635659793,YR2021,GDP_Growth,Tunisia
-543,ZAF,4.9130966818804,YR2021,GDP_Growth,South Africa
-544,BGD,6.93867508910159,YR2021,GDP_Growth,Bangladesh
-545,PER,13.3495090777977,YR2021,GDP_Growth,Peru
-546,DOM,12.2719902266266,YR2021,GDP_Growth,Dominican Republic
-547,CRI,7.57956529907922,YR2021,GDP_Growth,Costa Rica
-550,TGO,5.26059492471809,YR2021,GDP_Growth,Togo
-554,AZE,5.60003727280338,YR2021,GDP_Growth,Azerbaijan
-555,PAK,6.48708677384843,YR2021,GDP_Growth,Pakistan
-558,NIC,10.3443407049189,YR2021,GDP_Growth,Nicaragua
-559,ZWE,8.46801689759531,YR2021,GDP_Growth,Zimbabwe
-560,VUT,0.449256480524738,YR2021,GDP_Growth,Vanuatu
-564,VCT,1.35211425548162,YR2021,GDP_Growth,Saint Vincent and the Grenadines
-565,TCD,-1.1999905246095,YR2021,GDP_Growth,Chad
-568,FJI,-5.11160739321285,YR2021,GDP_Growth,Fiji
-570,AFG,-20.7371456208414,YR2021,GDP_Growth,Afghanistan
-573,KHM,3.02638936277746,YR2021,GDP_Growth,Cambodia
-574,MYS,3.09215964982188,YR2021,GDP_Growth,Malaysia
-575,SUR,-2.72961882709443,YR2021,GDP_Growth,Suriname
-577,NPL,4.24694014145481,YR2021,GDP_Growth,Nepal
-578,GAB,1.462286510102,YR2021,GDP_Growth,Gabon
-579,JOR,2.22813841296229,YR2021,GDP_Growth,Jordan
-583,DZA,3.50000000049758,YR2021,GDP_Growth,Algeria
-584,VNM,2.56155114232494,YR2021,GDP_Growth,Viet Nam
-585,TUR,11.3534964080772,YR2021,GDP_Growth,Türkiye
-587,ALB,8.51550112324915,YR2021,GDP_Growth,Albania
-589,BDI,1.79529999999997,YR2021,GDP_Growth,Burundi
-590,BEN,7.15572952939961,YR2021,GDP_Growth,Benin
-591,STP,1.87792303794099,YR2021,GDP_Growth,Sao Tome and Principe
-594,KAZ,4.29999999999981,YR2021,GDP_Growth,Kazakhstan
-600,GMB,4.26549216158563,YR2021,GDP_Growth,Gambia
-601,CAF,0.900000006878756,YR2021,GDP_Growth,Central African Republic
-604,PAN,15.3358739290709,YR2021,GDP_Growth,Panama
-606,LBN,-7.0012393603983,YR2021,GDP_Growth,Lebanon
-610,PSE,7.05045093820793,YR2021,GDP_Growth,West Bank and Gaza Strip
-611,GNQ,-0.945382916517076,YR2021,GDP_Growth,Equatorial Guinea
-612,IND,8.68122873083119,YR2021,GDP_Growth,India
-616,COD,6.20015401075946,YR2021,GDP_Growth,Democratic Republic of the Congo
-619,HTI,-1.79823988931486,YR2021,GDP_Growth,Haiti
-621,CPV,6.952448693837,YR2021,GDP_Growth,Cabo Verde
-623,SEN,6.06449596752137,YR2021,GDP_Growth,Senegal
-629,CIV,7.03795999997303,YR2021,GDP_Growth,Côte d'Ivoire
-630,MNG,1.63676957584143,YR2021,GDP_Growth,Mongolia
-636,CUB,1.25409286362381,YR2021,GDP_Growth,Cuba
-637,BLR,2.29987941172813,YR2021,GDP_Growth,Belarus
-639,LAO,2.52835100102986,YR2021,GDP_Growth,Lao People's Democratic Republic
-640,LBY,31.3724222267248,YR2021,GDP_Growth,Libya
-643,MKD,3.96426417144993,YR2021,GDP_Growth,North Macedonia
-645,BWA,11.3700218626674,YR2021,GDP_Growth,Botswana
-646,SWZ,7.88330640157318,YR2021,GDP_Growth,Eswatini
-647,MWI,2.75141640762955,YR2021,GDP_Growth,Malawi
-648,CHN,8.1097925807738,YR2021,GDP_Growth,China (People's Republic of)
-650,KEN,7.51735538703886,YR2021,GDP_Growth,Kenya
-651,WSM,-7.08458799747405,YR2021,GDP_Growth,Samoa
-652,GRD,4.68794388997816,YR2021,GDP_Growth,Grenada
-655,ECU,4.23525124172572,YR2021,GDP_Growth,Ecuador
-659,TON,-2.66750617523127,YR2021,GDP_Growth,Tonga
-661,DJI,4.81247738295502,YR2021,GDP_Growth,Djibouti
-662,LCA,12.2298622129514,YR2021,GDP_Growth,Saint Lucia
-665,SOM,4.0491104880813,YR2021,GDP_Growth,Somalia
-667,FSM,-3.18818719740072,YR2021,GDP_Growth,Micronesia
-669,JAM,4.60000000000001,YR2021,GDP_Growth,Jamaica
-673,CMR,3.64991688648905,YR2021,GDP_Growth,Cameroon
-677,GIN,3.89999999990576,YR2021,GDP_Growth,Guinea
-682,BFA,6.90634167337785,YR2021,GDP_Growth,Burkina Faso
-683,UZB,7.42011024162757,YR2021,GDP_Growth,Uzbekistan
-684,MUS,3.70361112396466,YR2021,GDP_Growth,Mauritius
-686,KIR,1.49999890403032,YR2021,GDP_Growth,Kiribati
-688,MNE,12.4343589851741,YR2021,GDP_Growth,Montenegro
-689,MHL,1.11479505810898,YR2021,GDP_Growth,Marshall Islands
-692,MLI,3.05261356942125,YR2021,GDP_Growth,Mali
-696,COL,10.6770130738261,YR2021,GDP_Growth,Colombia
-697,SLV,10.2784761168053,YR2021,GDP_Growth,El Salvador
-699,COM,2.11219557695527,YR2021,GDP_Growth,Comoros
-700,SRB,7.54991253537386,YR2021,GDP_Growth,Serbia
-701,MDG,4.40234000007614,YR2021,GDP_Growth,Madagascar
-703,GTM,7.98076950609519,YR2021,GDP_Growth,Guatemala
-705,GNB,3.80000242656607,YR2021,GDP_Growth,Guinea-Bissau
-707,TUV,2.98507462686568,YR2021,GDP_Growth,Tuvalu
-709,TZA,4.27908454176213,YR2021,GDP_Growth,Tanzania
-710,NER,1.38712917730062,YR2021,GDP_Growth,Niger
-712,GEO,10.4655372923886,YR2021,GDP_Growth,Georgia
-714,TLS,5.29144191975139,YR2021,GDP_Growth,Timor-Leste
-721,LBR,4.98671283481617,YR2021,GDP_Growth,Liberia
-724,ATG,5.2708488395119,YR2021,GDP_Growth,Antigua and Barbuda
-725,BRA,4.61942162067312,YR2021,GDP_Growth,Brazil
-726,RWA,10.88451916081,YR2021,GDP_Growth,Rwanda
-728,UKR,3.40000000000001,YR2021,GDP_Growth,Ukraine
-731,SLB,-0.202448664802859,YR2021,GDP_Growth,Solomon Islands
-732,NRU,1.49999999999999,YR2021,GDP_Growth,Nauru
-733,NGA,3.64718654100696,YR2021,GDP_Growth,Nigeria
-734,KGZ,3.61061269547005,YR2021,GDP_Growth,Kyrgyzstan
-735,MAR,7.9296679419552,YR2021,GDP_Growth,Morocco
-736,GHA,5.35647789699578,YR2021,GDP_Growth,Ghana
-737,ETH,5.63730300819225,YR2021,GDP_Growth,Ethiopia
-740,BTN,4.08761879846328,YR2021,GDP_Growth,Bhutan
-744,XKX,10.7456116066371,YR2021,GDP_Growth,Kosovo
-745,PLW,-13.3333333333333,YR2021,GDP_Growth,Palau
-749,ZMB,4.59873403878439,YR2021,GDP_Growth,Zambia
-751,MMR,-17.9129448042714,YR2021,GDP_Growth,Myanmar
-752,BOL,6.1058042252093,YR2021,GDP_Growth,Bolivia
-756,PNG,0.299999999999983,YR2021,GDP_Growth,Papua New Guinea
-758,NAM,2.65605081999696,YR2021,GDP_Growth,Namibia
-759,ARG,10.3982494646904,YR2021,GDP_Growth,Argentina
-760,PRY,4.10241341536333,YR2021,GDP_Growth,Paraguay
-761,BLZ,15.2261306532663,YR2021,GDP_Growth,Belize
-762,COG,-2.20000260638274,YR2021,GDP_Growth,Congo
-765,MEX,4.72056529768081,YR2021,GDP_Growth,Mexico
-766,THA,1.53383558441951,YR2021,GDP_Growth,Thailand
-769,IDN,3.69124011191289,YR2021,GDP_Growth,Indonesia
-770,MOZ,2.36398841807251,YR2021,GDP_Growth,Mozambique
-772,AGO,1.09999999999965,YR2021,GDP_Growth,Angola
-775,IRN,4.71977773157164,YR2021,GDP_Growth,Iran
-776,ARM,5.69999999999997,YR2021,GDP_Growth,Armenia
-780,MDA,13.9445896006366,YR2021,GDP_Growth,Moldova
-781,HND,12.5340960157739,YR2021,GDP_Growth,Honduras
-782,SLE,4.10470008884118,YR2021,GDP_Growth,Sierra Leone
-784,SDN,-1.86852020559263,YR2021,GDP_Growth,Sudan
-786,LKA,3.32676381781447,YR2021,GDP_Growth,Sri Lanka
-791,EGY,3.3267420905086,YR2021,GDP_Growth,Egypt
-792,PHL,5.70315596840621,YR2021,GDP_Growth,Philippines
-793,MDV,41.7451005464201,YR2021,GDP_Growth,Maldives
-795,BIH,7.54559112979621,YR2021,GDP_Growth,Bosnia and Herzegovina
-796,IRQ,2.78333543533222,YR2021,GDP_Growth,Iraq
-549,SYR,-3.87368168638868,YR2020,GDP_Growth,Syrian Arab Republic
-660,TKM,6.3,YR2019,GDP_Growth,Turkmenistan
-552,YEM,0.752447587579127,YR2018,GDP_Growth,Yemen
-800,MRT,5830.81708784703,YR2021,GDP_PerCapita,Mauritania
-801,TJK,4288.1678896526,YR2021,GDP_PerCapita,Tajikistan
-802,GUY,24086.9009171257,YR2021,GDP_PerCapita,Guyana
-804,LSO,2521.53066265486,YR2021,GDP_PerCapita,Lesotho
-805,UGA,2467.89933666955,YR2021,GDP_PerCapita,Uganda
-806,DMA,11950.5571602386,YR2021,GDP_PerCapita,Dominica
-807,TUN,11282.4846258383,YR2021,GDP_PerCapita,Tunisia
-809,ZAF,14624.4151708036,YR2021,GDP_PerCapita,South Africa
-810,BGD,6493.80939271608,YR2021,GDP_PerCapita,Bangladesh
-811,PER,13748.5336151609,YR2021,GDP_PerCapita,Peru
-812,DOM,20462.5171301047,YR2021,GDP_PerCapita,Dominican Republic
-813,CRI,22613.9813796966,YR2021,GDP_PerCapita,Costa Rica
-816,TGO,2334.29932477999,YR2021,GDP_PerCapita,Togo
-820,AZE,15854.5508382533,YR2021,GDP_PerCapita,Azerbaijan
-821,PAK,5748.00595195309,YR2021,GDP_PerCapita,Pakistan
-824,NIC,6194.70034987169,YR2021,GDP_PerCapita,Nicaragua
-825,ZWE,2323.68725749498,YR2021,GDP_PerCapita,Zimbabwe
-826,VUT,3057.41139994068,YR2021,GDP_PerCapita,Vanuatu
-830,VCT,15045.301775408,YR2021,GDP_PerCapita,Saint Vincent and the Grenadines
-831,TCD,1566.04116081687,YR2021,GDP_PerCapita,Chad
-834,FJI,11380.5694967405,YR2021,GDP_PerCapita,Fiji
-836,AFG,1665.80584219752,YR2021,GDP_PerCapita,Afghanistan
-839,KHM,4783.90361444401,YR2021,GDP_PerCapita,Cambodia
-840,MYS,28929.4741995534,YR2021,GDP_PerCapita,Malaysia
-841,SUR,16222.6756956317,YR2021,GDP_PerCapita,Suriname
-843,NPL,4209.75939278622,YR2021,GDP_PerCapita,Nepal
-844,GAB,15175.6873376584,YR2021,GDP_PerCapita,Gabon
-845,JOR,10132.5038792039,YR2021,GDP_PerCapita,Jordan
-849,DZA,12128.2749912629,YR2021,GDP_PerCapita,Algeria
-850,VNM,11676.108560425,YR2021,GDP_PerCapita,Viet Nam
-851,TUR,30444.3877084747,YR2021,GDP_PerCapita,Türkiye
-853,ALB,15810.4274320237,YR2021,GDP_PerCapita,Albania
-855,BDI,774.54289094215,YR2021,GDP_PerCapita,Burundi
-856,BEN,3649.04065049671,YR2021,GDP_PerCapita,Benin
-857,STP,4451.64251247711,YR2021,GDP_PerCapita,Sao Tome and Principe
-860,KAZ,28684.8980600358,YR2021,GDP_PerCapita,Kazakhstan
-866,GMB,2281.30552640672,YR2021,GDP_PerCapita,Gambia
-867,CAF,920.078470147941,YR2021,GDP_PerCapita,Central African Republic
-870,PAN,31900.9417472655,YR2021,GDP_PerCapita,Panama
-872,LBN,14256.6897115588,YR2021,GDP_PerCapita,Lebanon
-876,PSE,6199.45101755052,YR2021,GDP_PerCapita,West Bank and Gaza Strip
-877,GNQ,16080.1432631254,YR2021,GDP_PerCapita,Equatorial Guinea
-878,IND,7241.98422960577,YR2021,GDP_PerCapita,India
-882,COD,1179.49914208545,YR2021,GDP_PerCapita,Democratic Republic of the Congo
-885,HTI,3153.12702047678,YR2021,GDP_PerCapita,Haiti
-887,CPV,6716.95633050564,YR2021,GDP_PerCapita,Cabo Verde
-889,SEN,3840.03295935999,YR2021,GDP_PerCapita,Senegal
-895,CIV,5850.05192548799,YR2021,GDP_PerCapita,Côte d'Ivoire
-896,MNG,12818.8794530072,YR2021,GDP_PerCapita,Mongolia
-903,BLR,21698.5740886624,YR2021,GDP_PerCapita,Belarus
-905,LAO,8620.64761768474,YR2021,GDP_PerCapita,Lao People's Democratic Republic
-906,LBY,24130.8298307057,YR2021,GDP_PerCapita,Libya
-909,MKD,18339.647582021,YR2021,GDP_PerCapita,North Macedonia
-911,BWA,16304.1533572515,YR2021,GDP_PerCapita,Botswana
-912,SWZ,9730.06812466724,YR2021,GDP_PerCapita,Eswatini
-913,MWI,1638.15225128207,YR2021,GDP_PerCapita,Malawi
-914,CHN,19338.2340845061,YR2021,GDP_PerCapita,China (People's Republic of)
-916,KEN,5211.17053346932,YR2021,GDP_PerCapita,Kenya
-917,WSM,6079.76427140823,YR2021,GDP_PerCapita,Samoa
-918,GRD,15037.8495447229,YR2021,GDP_PerCapita,Grenada
-921,ECU,11720.6446417049,YR2021,GDP_PerCapita,Ecuador
-925,TON,6748.5121181584,YR2021,GDP_PerCapita,Tonga
-927,DJI,5397.67901830656,YR2021,GDP_PerCapita,Djibouti
-928,LCA,14332.2215080726,YR2021,GDP_PerCapita,Saint Lucia
-931,SOM,1248.81248733232,YR2021,GDP_PerCapita,Somalia
-933,FSM,3642.09539419912,YR2021,GDP_PerCapita,Micronesia
-935,JAM,10542.7377855943,YR2021,GDP_PerCapita,Jamaica
-939,CMR,4065.31160958852,YR2021,GDP_PerCapita,Cameroon
-943,GIN,2900.6689577709,YR2021,GDP_PerCapita,Guinea
-948,BFA,2394.70536478773,YR2021,GDP_PerCapita,Burkina Faso
-949,UZB,8497.44830751167,YR2021,GDP_PerCapita,Uzbekistan
-950,MUS,23035.2829995252,YR2021,GDP_PerCapita,Mauritius
-952,KIR,2128.07663835547,YR2021,GDP_PerCapita,Kiribati
-954,MNE,23434.5326216029,YR2021,GDP_PerCapita,Montenegro
-955,MHL,6549.62188427606,YR2021,GDP_PerCapita,Marshall Islands
-958,MLI,2329.70618076717,YR2021,GDP_PerCapita,Mali
-962,COL,16903.7938821745,YR2021,GDP_PerCapita,Colombia
-963,SLV,9981.88601960529,YR2021,GDP_PerCapita,El Salvador
-965,COM,3546.84350218717,YR2021,GDP_PerCapita,Comoros
-966,SRB,21641.8514735572,YR2021,GDP_PerCapita,Serbia
-967,MDG,1607.93522487357,YR2021,GDP_PerCapita,Madagascar
-969,GTM,9806.82822044911,YR2021,GDP_PerCapita,Guatemala
-971,GNB,2011.94847990013,YR2021,GDP_PerCapita,Guinea-Bissau
-973,TUV,5409.51169243976,YR2021,GDP_PerCapita,Tuvalu
-975,TZA,2836.24243164063,YR2021,GDP_PerCapita,Tanzania
-976,NER,1303.56736338191,YR2021,GDP_PerCapita,Niger
-978,GEO,17013.5663210827,YR2021,GDP_PerCapita,Georgia
-980,TLS,5528.58052334426,YR2021,GDP_PerCapita,Timor-Leste
-987,LBR,1563.55292710265,YR2021,GDP_PerCapita,Liberia
-990,ATG,21010.0035741979,YR2021,GDP_PerCapita,Antigua and Barbuda
-991,BRA,16031.0861728725,YR2021,GDP_PerCapita,Brazil
-992,RWA,2459.70734669588,YR2021,GDP_PerCapita,Rwanda
-994,UKR,14219.7900390625,YR2021,GDP_PerCapita,Ukraine
-997,SLB,2648.73220698842,YR2021,GDP_PerCapita,Solomon Islands
-998,NRU,13125.3483716561,YR2021,GDP_PerCapita,Nauru
-999,NGA,5407.97945730588,YR2021,GDP_PerCapita,Nigeria
-1000,KGZ,5289.68712477187,YR2021,GDP_PerCapita,Kyrgyzstan
-1001,MAR,8852.9140625,YR2021,GDP_PerCapita,Morocco
-1002,GHA,5971.12500879603,YR2021,GDP_PerCapita,Ghana
-1003,ETH,2547.71681384862,YR2021,GDP_PerCapita,Ethiopia
-1006,BTN,11983.3169712681,YR2021,GDP_PerCapita,Bhutan
-1010,XKX,13055.9007751033,YR2021,GDP_PerCapita,Kosovo
-1011,PLW,15144.5689629446,YR2021,GDP_PerCapita,Palau
-1015,ZMB,3555.92022888679,YR2021,GDP_PerCapita,Zambia
-1017,MMR,4430.22242656668,YR2021,GDP_PerCapita,Myanmar
-1018,BOL,8846.08196476077,YR2021,GDP_PerCapita,Bolivia
-1022,PNG,4040.03944593112,YR2021,GDP_PerCapita,Papua New Guinea
-1024,NAM,10038.7382721225,YR2021,GDP_PerCapita,Namibia
-1025,ARG,23649.670296221,YR2021,GDP_PerCapita,Argentina
-1026,PRY,15037.1896409496,YR2021,GDP_PerCapita,Paraguay
-1027,BLZ,9626.57357080288,YR2021,GDP_PerCapita,Belize
-1028,COG,3553.28798535731,YR2021,GDP_PerCapita,Congo
-1031,MEX,19584.6717193723,YR2021,GDP_PerCapita,Mexico
-1032,THA,18760.7552218718,YR2021,GDP_PerCapita,Thailand
-1035,IDN,13027.3006076005,YR2021,GDP_PerCapita,Indonesia
-1036,MOZ,1347.72002356666,YR2021,GDP_PerCapita,Mozambique
-1038,AGO,6491.12557839236,YR2021,GDP_PerCapita,Angola
-1041,IRN,16484.075359618,YR2021,GDP_PerCapita,Iran
-1042,ARM,15592.4873567251,YR2021,GDP_PerCapita,Armenia
-1046,MDA,15390.4658255039,YR2021,GDP_PerCapita,Moldova
-1047,HND,6121.565844251,YR2021,GDP_PerCapita,Honduras
-1048,SLE,1773.89924631263,YR2021,GDP_PerCapita,Sierra Leone
-1050,SDN,4065.97607421875,YR2021,GDP_PerCapita,Sudan
-1052,LKA,14706.54131846,YR2021,GDP_PerCapita,Sri Lanka
-1057,EGY,12706.4044506141,YR2021,GDP_PerCapita,Egypt
-1058,PHL,8892.78934599976,YR2021,GDP_PerCapita,Philippines
-1059,MDV,20615.3730798325,YR2021,GDP_PerCapita,Maldives
-1061,BIH,17488.5230977933,YR2021,GDP_PerCapita,Bosnia and Herzegovina
-1062,IRQ,9846.04149957664,YR2021,GDP_PerCapita,Iraq
-926,TKM,15625.3606635627,YR2019,GDP_PerCapita,Turkmenistan
-14,ALB,1.0,YR2021,Rang_DEU_GrossODA,Albania
-18,BLR,2.0,YR2021,Rang_DEU_GrossODA,Belarus
-22,BIH,1.0,YR2021,Rang_DEU_GrossODA,Bosnia and Herzegovina
-26,XKX,2.0,YR2021,Rang_DEU_GrossODA,Kosovo
-30,MDA,3.0,YR2021,Rang_DEU_GrossODA,Moldova
-34,MNE,1.0,YR2021,Rang_DEU_GrossODA,Montenegro
-38,MKD,2.0,YR2021,Rang_DEU_GrossODA,North Macedonia
-42,SRB,1.0,YR2021,Rang_DEU_GrossODA,Serbia
-46,,19.0,YR2021,Rang_DEU_GrossODA,"Polynesia, regional"
-50,TUR,1.0,YR2021,Rang_DEU_GrossODA,Türkiye
-54,UKR,2.0,YR2021,Rang_DEU_GrossODA,Ukraine
-70,DZA,2.0,YR2021,Rang_DEU_GrossODA,Algeria
-74,EGY,4.0,YR2021,Rang_DEU_GrossODA,Egypt
-78,LBY,2.0,YR2021,Rang_DEU_GrossODA,Libya
-82,MAR,2.0,YR2021,Rang_DEU_GrossODA,Morocco
-86,TUN,1.0,YR2021,Rang_DEU_GrossODA,Tunisia
-102,BDI,4.0,YR2021,Rang_DEU_GrossODA,Burundi
-106,COM,10.0,YR2021,Rang_DEU_GrossODA,Comoros
-110,DJI,12.0,YR2021,Rang_DEU_GrossODA,Djibouti
-114,ERI,1.0,YR2021,Rang_DEU_GrossODA,Eritrea
-118,ETH,2.0,YR2021,Rang_DEU_GrossODA,Ethiopia
-122,KEN,3.0,YR2021,Rang_DEU_GrossODA,Kenya
-126,MDG,3.0,YR2021,Rang_DEU_GrossODA,Madagascar
-130,MWI,2.0,YR2021,Rang_DEU_GrossODA,Malawi
-134,MUS,3.0,YR2021,Rang_DEU_GrossODA,Mauritius
-138,MOZ,2.0,YR2021,Rang_DEU_GrossODA,Mozambique
-142,RWA,2.0,YR2021,Rang_DEU_GrossODA,Rwanda
-146,SOM,3.0,YR2021,Rang_DEU_GrossODA,Somalia
-150,SSD,2.0,YR2021,Rang_DEU_GrossODA,South Sudan
-154,SDN,2.0,YR2021,Rang_DEU_GrossODA,Sudan
-158,TZA,4.0,YR2021,Rang_DEU_GrossODA,Tanzania
-162,UGA,3.0,YR2021,Rang_DEU_GrossODA,Uganda
-166,ZMB,3.0,YR2021,Rang_DEU_GrossODA,Zambia
-170,ZWE,4.0,YR2021,Rang_DEU_GrossODA,Zimbabwe
-181,AGO,8.0,YR2021,Rang_DEU_GrossODA,Angola
-185,CMR,3.0,YR2021,Rang_DEU_GrossODA,Cameroon
-189,CAF,2.0,YR2021,Rang_DEU_GrossODA,Central African Republic
-193,TCD,3.0,YR2021,Rang_DEU_GrossODA,Chad
-197,COG,12.0,YR2021,Rang_DEU_GrossODA,Congo
-201,COD,2.0,YR2021,Rang_DEU_GrossODA,Democratic Republic of the Congo
-205,GNQ,10.0,YR2021,Rang_DEU_GrossODA,Equatorial Guinea
-209,GAB,5.0,YR2021,Rang_DEU_GrossODA,Gabon
-213,STP,22.0,YR2021,Rang_DEU_GrossODA,Sao Tome and Principe
-224,BWA,5.0,YR2021,Rang_DEU_GrossODA,Botswana
-228,SWZ,9.0,YR2021,Rang_DEU_GrossODA,Eswatini
-232,LSO,4.0,YR2021,Rang_DEU_GrossODA,Lesotho
-236,NAM,1.0,YR2021,Rang_DEU_GrossODA,Namibia
-240,ZAF,4.0,YR2021,Rang_DEU_GrossODA,South Africa
-251,BEN,3.0,YR2021,Rang_DEU_GrossODA,Benin
-255,BFA,3.0,YR2021,Rang_DEU_GrossODA,Burkina Faso
-259,CPV,10.0,YR2021,Rang_DEU_GrossODA,Cabo Verde
-263,CIV,3.0,YR2021,Rang_DEU_GrossODA,Côte d'Ivoire
-267,GMB,4.0,YR2021,Rang_DEU_GrossODA,Gambia
-271,GHA,1.0,YR2021,Rang_DEU_GrossODA,Ghana
-275,GIN,4.0,YR2021,Rang_DEU_GrossODA,Guinea
-279,GNB,10.0,YR2021,Rang_DEU_GrossODA,Guinea-Bissau
-283,LBR,3.0,YR2021,Rang_DEU_GrossODA,Liberia
-287,MLI,3.0,YR2021,Rang_DEU_GrossODA,Mali
-291,MRT,2.0,YR2021,Rang_DEU_GrossODA,Mauritania
-295,NER,2.0,YR2021,Rang_DEU_GrossODA,Niger
-299,NGA,3.0,YR2021,Rang_DEU_GrossODA,Nigeria
-303,SHN,15.0,YR2021,Rang_DEU_GrossODA,Saint Helena
-307,SEN,3.0,YR2021,Rang_DEU_GrossODA,Senegal
-311,SLE,3.0,YR2021,Rang_DEU_GrossODA,Sierra Leone
-315,TGO,1.0,YR2021,Rang_DEU_GrossODA,Togo
-342,ATG,19.0,YR2021,Rang_DEU_GrossODA,Antigua and Barbuda
-346,CUB,11.0,YR2021,Rang_DEU_GrossODA,Cuba
-350,DMA,6.0,YR2021,Rang_DEU_GrossODA,Dominica
-354,DOM,5.0,YR2021,Rang_DEU_GrossODA,Dominican Republic
-358,GRD,2.0,YR2021,Rang_DEU_GrossODA,Grenada
-362,HTI,6.0,YR2021,Rang_DEU_GrossODA,Haiti
-366,JAM,8.0,YR2021,Rang_DEU_GrossODA,Jamaica
-370,MSR,16.0,YR2021,Rang_DEU_GrossODA,Montserrat
-374,LCA,8.0,YR2021,Rang_DEU_GrossODA,Saint Lucia
-378,VCT,14.0,YR2021,Rang_DEU_GrossODA,Saint Vincent and the Grenadines
-390,BLZ,5.0,YR2021,Rang_DEU_GrossODA,Belize
-394,CRI,3.0,YR2021,Rang_DEU_GrossODA,Costa Rica
-398,SLV,6.0,YR2021,Rang_DEU_GrossODA,El Salvador
-402,GTM,4.0,YR2021,Rang_DEU_GrossODA,Guatemala
-406,HND,3.0,YR2021,Rang_DEU_GrossODA,Honduras
-410,MEX,3.0,YR2021,Rang_DEU_GrossODA,Mexico
-414,NIC,7.0,YR2021,Rang_DEU_GrossODA,Nicaragua
-418,PAN,6.0,YR2021,Rang_DEU_GrossODA,Panama
-433,ARG,3.0,YR2021,Rang_DEU_GrossODA,Argentina
-437,BOL,3.0,YR2021,Rang_DEU_GrossODA,Bolivia
-441,BRA,3.0,YR2021,Rang_DEU_GrossODA,Brazil
-445,COL,3.0,YR2021,Rang_DEU_GrossODA,Colombia
-449,ECU,3.0,YR2021,Rang_DEU_GrossODA,Ecuador
-453,GUY,6.0,YR2021,Rang_DEU_GrossODA,Guyana
-457,PRY,6.0,YR2021,Rang_DEU_GrossODA,Paraguay
-461,PER,2.0,YR2021,Rang_DEU_GrossODA,Peru
-465,SUR,9.0,YR2021,Rang_DEU_GrossODA,Suriname
-469,VEN,2.0,YR2021,Rang_DEU_GrossODA,Venezuela
-489,KHM,6.0,YR2021,Rang_DEU_GrossODA,Cambodia
-493,CHN,1.0,YR2021,Rang_DEU_GrossODA,China (People's Republic of)
-497,PRK,2.0,YR2021,Rang_DEU_GrossODA,Democratic People's Republic of Korea
-501,IDN,2.0,YR2021,Rang_DEU_GrossODA,Indonesia
-505,LAO,5.0,YR2021,Rang_DEU_GrossODA,Lao People's Democratic Republic
-509,MYS,4.0,YR2021,Rang_DEU_GrossODA,Malaysia
-513,MNG,4.0,YR2021,Rang_DEU_GrossODA,Mongolia
-517,PHL,6.0,YR2021,Rang_DEU_GrossODA,Philippines
-521,THA,3.0,YR2021,Rang_DEU_GrossODA,Thailand
-525,TLS,7.0,YR2021,Rang_DEU_GrossODA,Timor-Leste
-529,VNM,3.0,YR2021,Rang_DEU_GrossODA,Viet Nam
-541,AFG,2.0,YR2021,Rang_DEU_GrossODA,Afghanistan
-545,ARM,1.0,YR2021,Rang_DEU_GrossODA,Armenia
-549,AZE,2.0,YR2021,Rang_DEU_GrossODA,Azerbaijan
-553,BGD,5.0,YR2021,Rang_DEU_GrossODA,Bangladesh
-557,BTN,4.0,YR2021,Rang_DEU_GrossODA,Bhutan
-561,GEO,1.0,YR2021,Rang_DEU_GrossODA,Georgia
-565,IND,2.0,YR2021,Rang_DEU_GrossODA,India
-569,KAZ,1.0,YR2021,Rang_DEU_GrossODA,Kazakhstan
-573,KGZ,2.0,YR2021,Rang_DEU_GrossODA,Kyrgyzstan
-577,MDV,6.0,YR2021,Rang_DEU_GrossODA,Maldives
-581,MMR,5.0,YR2021,Rang_DEU_GrossODA,Myanmar
-585,NPL,4.0,YR2021,Rang_DEU_GrossODA,Nepal
-589,PAK,3.0,YR2021,Rang_DEU_GrossODA,Pakistan
-593,LKA,6.0,YR2021,Rang_DEU_GrossODA,Sri Lanka
-597,TJK,4.0,YR2021,Rang_DEU_GrossODA,Tajikistan
-601,TKM,3.0,YR2021,Rang_DEU_GrossODA,Turkmenistan
-605,UZB,4.0,YR2021,Rang_DEU_GrossODA,Uzbekistan
-625,IRN,1.0,YR2021,Rang_DEU_GrossODA,Iran
-629,IRQ,3.0,YR2021,Rang_DEU_GrossODA,Iraq
-633,JOR,2.0,YR2021,Rang_DEU_GrossODA,Jordan
-637,LBN,1.0,YR2021,Rang_DEU_GrossODA,Lebanon
-641,SYR,2.0,YR2021,Rang_DEU_GrossODA,Syrian Arab Republic
-645,PSE,1.0,YR2021,Rang_DEU_GrossODA,West Bank and Gaza Strip
-649,YEM,2.0,YR2021,Rang_DEU_GrossODA,Yemen
-669,FJI,7.0,YR2021,Rang_DEU_GrossODA,Fiji
-673,PNG,5.0,YR2021,Rang_DEU_GrossODA,Papua New Guinea
-677,SLB,7.0,YR2021,Rang_DEU_GrossODA,Solomon Islands
-681,VUT,22.0,YR2021,Rang_DEU_GrossODA,Vanuatu
-692,KIR,19.0,YR2021,Rang_DEU_GrossODA,Kiribati
-696,MHL,3.0,YR2021,Rang_DEU_GrossODA,Marshall Islands
-700,FSM,18.0,YR2021,Rang_DEU_GrossODA,Micronesia
-704,NRU,17.0,YR2021,Rang_DEU_GrossODA,Nauru
-708,PLW,7.0,YR2021,Rang_DEU_GrossODA,Palau
-719,NIU,16.0,YR2021,Rang_DEU_GrossODA,Niue
-723,WSM,7.0,YR2021,Rang_DEU_GrossODA,Samoa
-727,TKL,16.0,YR2021,Rang_DEU_GrossODA,Tokelau
-731,TON,9.0,YR2021,Rang_DEU_GrossODA,Tonga
-735,TUV,18.0,YR2021,Rang_DEU_GrossODA,Tuvalu
-739,WLF,3.0,YR2021,Rang_DEU_GrossODA,Wallis and Futuna
-748,,2.0,YR2021,Rang_DEU_GrossODA,"Polynesia, regional"
-0,AFG,180.0,YR2021,HDI_Rank,Afghanistan
-1,AGO,148.0,YR2021,HDI_Rank,Angola
-2,ALB,67.0,YR2021,HDI_Rank,Albania
-5,ARG,47.0,YR2021,HDI_Rank,Argentina
-6,ARM,85.0,YR2021,HDI_Rank,Armenia
-7,ATG,71.0,YR2021,HDI_Rank,Antigua and Barbuda
-10,AZE,91.0,YR2021,HDI_Rank,Azerbaijan
-11,BDI,187.0,YR2021,HDI_Rank,Burundi
-13,BEN,166.0,YR2021,HDI_Rank,Benin
-14,BFA,184.0,YR2021,HDI_Rank,Burkina Faso
-15,BGD,129.0,YR2021,HDI_Rank,Bangladesh
-19,BIH,74.0,YR2021,HDI_Rank,Bosnia and Herzegovina
-20,BLR,60.0,YR2021,HDI_Rank,Belarus
-21,BLZ,123.0,YR2021,HDI_Rank,Belize
-22,BOL,118.0,YR2021,HDI_Rank,Bolivia
-23,BRA,87.0,YR2021,HDI_Rank,Brazil
-26,BTN,127.0,YR2021,HDI_Rank,Bhutan
-27,BWA,117.0,YR2021,HDI_Rank,Botswana
-28,CAF,188.0,YR2021,HDI_Rank,Central African Republic
-32,CHN,79.0,YR2021,HDI_Rank,China (People's Republic of)
-33,CIV,159.0,YR2021,HDI_Rank,Côte d'Ivoire
-34,CMR,151.0,YR2021,HDI_Rank,Cameroon
-35,COD,179.0,YR2021,HDI_Rank,Democratic Republic of the Congo
-36,COG,153.0,YR2021,HDI_Rank,Congo
-37,COL,88.0,YR2021,HDI_Rank,Colombia
-38,COM,156.0,YR2021,HDI_Rank,Comoros
-39,CPV,128.0,YR2021,HDI_Rank,Cabo Verde
-40,CRI,58.0,YR2021,HDI_Rank,Costa Rica
-41,CUB,83.0,YR2021,HDI_Rank,Cuba
-45,DJI,171.0,YR2021,HDI_Rank,Djibouti
-46,DMA,102.0,YR2021,HDI_Rank,Dominica
-48,DOM,80.0,YR2021,HDI_Rank,Dominican Republic
-49,DZA,91.0,YR2021,HDI_Rank,Algeria
-50,ECU,95.0,YR2021,HDI_Rank,Ecuador
-51,EGY,97.0,YR2021,HDI_Rank,Egypt
-52,ERI,176.0,YR2021,HDI_Rank,Eritrea
-55,ETH,175.0,YR2021,HDI_Rank,Ethiopia
-57,FJI,99.0,YR2021,HDI_Rank,Fiji
-59,FSM,134.0,YR2021,HDI_Rank,Micronesia
-60,GAB,112.0,YR2021,HDI_Rank,Gabon
-62,GEO,63.0,YR2021,HDI_Rank,Georgia
-63,GHA,133.0,YR2021,HDI_Rank,Ghana
-64,GIN,182.0,YR2021,HDI_Rank,Guinea
-65,GMB,174.0,YR2021,HDI_Rank,Gambia
-66,GNB,177.0,YR2021,HDI_Rank,Guinea-Bissau
-67,GNQ,145.0,YR2021,HDI_Rank,Equatorial Guinea
-69,GRD,68.0,YR2021,HDI_Rank,Grenada
-70,GTM,135.0,YR2021,HDI_Rank,Guatemala
-71,GUY,108.0,YR2021,HDI_Rank,Guyana
-73,HND,137.0,YR2021,HDI_Rank,Honduras
-75,HTI,163.0,YR2021,HDI_Rank,Haiti
-77,IDN,114.0,YR2021,HDI_Rank,Indonesia
-78,IND,132.0,YR2021,HDI_Rank,India
-80,IRN,76.0,YR2021,HDI_Rank,Iran
-81,IRQ,121.0,YR2021,HDI_Rank,Iraq
-85,JAM,110.0,YR2021,HDI_Rank,Jamaica
-86,JOR,102.0,YR2021,HDI_Rank,Jordan
-88,KAZ,56.0,YR2021,HDI_Rank,Kazakhstan
-89,KEN,152.0,YR2021,HDI_Rank,Kenya
-90,KGZ,118.0,YR2021,HDI_Rank,Kyrgyzstan
-91,KHM,146.0,YR2021,HDI_Rank,Cambodia
-92,KIR,136.0,YR2021,HDI_Rank,Kiribati
-96,LAO,140.0,YR2021,HDI_Rank,Lao People's Democratic Republic
-97,LBN,112.0,YR2021,HDI_Rank,Lebanon
-98,LBR,178.0,YR2021,HDI_Rank,Liberia
-99,LBY,104.0,YR2021,HDI_Rank,Libya
-100,LCA,106.0,YR2021,HDI_Rank,Saint Lucia
-102,LKA,73.0,YR2021,HDI_Rank,Sri Lanka
-103,LSO,168.0,YR2021,HDI_Rank,Lesotho
-107,MAR,123.0,YR2021,HDI_Rank,Morocco
-109,MDA,80.0,YR2021,HDI_Rank,Moldova
-110,MDG,173.0,YR2021,HDI_Rank,Madagascar
-111,MDV,90.0,YR2021,HDI_Rank,Maldives
-112,MEX,86.0,YR2021,HDI_Rank,Mexico
-113,MHL,131.0,YR2021,HDI_Rank,Marshall Islands
-114,MKD,78.0,YR2021,HDI_Rank,North Macedonia
-115,MLI,186.0,YR2021,HDI_Rank,Mali
-117,MMR,149.0,YR2021,HDI_Rank,Myanmar
-118,MNE,49.0,YR2021,HDI_Rank,Montenegro
-119,MNG,96.0,YR2021,HDI_Rank,Mongolia
-120,MOZ,185.0,YR2021,HDI_Rank,Mozambique
-121,MRT,158.0,YR2021,HDI_Rank,Mauritania
-122,MUS,63.0,YR2021,HDI_Rank,Mauritius
-123,MWI,169.0,YR2021,HDI_Rank,Malawi
-124,MYS,62.0,YR2021,HDI_Rank,Malaysia
-125,NAM,139.0,YR2021,HDI_Rank,Namibia
-126,NER,189.0,YR2021,HDI_Rank,Niger
-127,NGA,163.0,YR2021,HDI_Rank,Nigeria
-128,NIC,126.0,YR2021,HDI_Rank,Nicaragua
-131,NPL,143.0,YR2021,HDI_Rank,Nepal
-135,PAK,161.0,YR2021,HDI_Rank,Pakistan
-136,PAN,61.0,YR2021,HDI_Rank,Panama
-137,PER,84.0,YR2021,HDI_Rank,Peru
-138,PHL,116.0,YR2021,HDI_Rank,Philippines
-139,PLW,80.0,YR2021,HDI_Rank,Palau
-140,PNG,156.0,YR2021,HDI_Rank,Papua New Guinea
-144,PRY,105.0,YR2021,HDI_Rank,Paraguay
-145,PSE,106.0,YR2021,HDI_Rank,West Bank and Gaza Strip
-149,RWA,165.0,YR2021,HDI_Rank,Rwanda
-151,SDN,172.0,YR2021,HDI_Rank,Sudan
-152,SEN,170.0,YR2021,HDI_Rank,Senegal
-154,SLB,155.0,YR2021,HDI_Rank,Solomon Islands
-155,SLE,181.0,YR2021,HDI_Rank,Sierra Leone
-156,SLV,125.0,YR2021,HDI_Rank,El Salvador
-159,SRB,63.0,YR2021,HDI_Rank,Serbia
-160,SSD,191.0,YR2021,HDI_Rank,South Sudan
-161,STP,138.0,YR2021,HDI_Rank,Sao Tome and Principe
-162,SUR,99.0,YR2021,HDI_Rank,Suriname
-166,SWZ,144.0,YR2021,HDI_Rank,Eswatini
-168,SYR,150.0,YR2021,HDI_Rank,Syrian Arab Republic
-169,TCD,190.0,YR2021,HDI_Rank,Chad
-170,TGO,162.0,YR2021,HDI_Rank,Togo
-171,THA,66.0,YR2021,HDI_Rank,Thailand
-172,TJK,122.0,YR2021,HDI_Rank,Tajikistan
-173,TKM,91.0,YR2021,HDI_Rank,Turkmenistan
-174,TLS,140.0,YR2021,HDI_Rank,Timor-Leste
-175,TON,91.0,YR2021,HDI_Rank,Tonga
-177,TUN,97.0,YR2021,HDI_Rank,Tunisia
-178,TUR,48.0,YR2021,HDI_Rank,Türkiye
-179,TUV,130.0,YR2021,HDI_Rank,Tuvalu
-180,TZA,160.0,YR2021,HDI_Rank,Tanzania
-181,UGA,166.0,YR2021,HDI_Rank,Uganda
-182,UKR,77.0,YR2021,HDI_Rank,Ukraine
-185,UZB,101.0,YR2021,HDI_Rank,Uzbekistan
-186,VCT,89.0,YR2021,HDI_Rank,Saint Vincent and the Grenadines
-187,VEN,120.0,YR2021,HDI_Rank,Venezuela
-188,VNM,115.0,YR2021,HDI_Rank,Viet Nam
-189,VUT,140.0,YR2021,HDI_Rank,Vanuatu
-190,WSM,111.0,YR2021,HDI_Rank,Samoa
-191,YEM,183.0,YR2021,HDI_Rank,Yemen
-192,ZAF,109.0,YR2021,HDI_Rank,South Africa
-193,ZMB,154.0,YR2021,HDI_Rank,Zambia
-194,ZWE,146.0,YR2021,HDI_Rank,Zimbabwe
-0,AFG,1.38,YR2021,HDI_Score,Afghanistan
-1,AGO,2.18,YR2021,HDI_Score,Angola
-2,ALB,12.96,YR2021,HDI_Score,Albania
-5,ARG,15.81,YR2021,HDI_Score,Argentina
-6,ARM,5.95,YR2021,HDI_Score,Armenia
-10,AZE,10.56,YR2021,HDI_Score,Azerbaijan
-11,BDI,1.71,YR2021,HDI_Score,Burundi
-13,BEN,3.4,YR2021,HDI_Score,Benin
-14,BFA,2.96,YR2021,HDI_Score,Burkina Faso
-15,BGD,2.88,YR2021,HDI_Score,Bangladesh
-19,BIH,14.44,YR2021,HDI_Score,Bosnia and Herzegovina
-20,BLR,5.59,YR2021,HDI_Score,Belarus
-21,BLZ,12.21,YR2021,HDI_Score,Belize
-22,BOL,11.32,YR2021,HDI_Score,Bolivia
-23,BRA,18.87,YR2021,HDI_Score,Brazil
-26,BTN,32.43,YR2021,HDI_Score,Bhutan
-27,BWA,14.19,YR2021,HDI_Score,Botswana
-28,CAF,1.57,YR2021,HDI_Score,Central African Republic
-32,CHN,21.96,YR2021,HDI_Score,China (People's Republic of)
-33,CIV,3.26,YR2021,HDI_Score,Côte d'Ivoire
-34,CMR,2.13,YR2021,HDI_Score,Cameroon
-35,COD,2.75,YR2021,HDI_Score,Democratic Republic of the Congo
-36,COG,1.88,YR2021,HDI_Score,Congo
-37,COL,9.09,YR2021,HDI_Score,Colombia
-40,CRI,14.43,YR2021,HDI_Score,Costa Rica
-41,CUB,9.19,YR2021,HDI_Score,Cuba
-45,DJI,15.86,YR2021,HDI_Score,Djibouti
-48,DOM,9.54,YR2021,HDI_Score,Dominican Republic
-49,DZA,11.21,YR2021,HDI_Score,Algeria
-50,ECU,7.74,YR2021,HDI_Score,Ecuador
-51,EGY,8.22,YR2021,HDI_Score,Egypt
-52,ERI,3.47,YR2021,HDI_Score,Eritrea
-55,ETH,0.47,YR2021,HDI_Score,Ethiopia
-60,GAB,9.15,YR2021,HDI_Score,Gabon
-62,GEO,10.35,YR2021,HDI_Score,Georgia
-63,GHA,3.92,YR2021,HDI_Score,Ghana
-64,GIN,4.77,YR2021,HDI_Score,Guinea
-65,GMB,3.77,YR2021,HDI_Score,Gambia
-67,GNQ,15.89,YR2021,HDI_Score,Equatorial Guinea
-70,GTM,7.24,YR2021,HDI_Score,Guatemala
-73,HND,6.06,YR2021,HDI_Score,Honduras
-75,HTI,2.4,YR2021,HDI_Score,Haiti
-77,IDN,6.77,YR2021,HDI_Score,Indonesia
-78,IND,5.23,YR2021,HDI_Score,India
-80,IRN,13.16,YR2021,HDI_Score,Iran
-81,IRQ,11.87,YR2021,HDI_Score,Iraq
-85,JAM,9.95,YR2021,HDI_Score,Jamaica
-86,JOR,7.03,YR2021,HDI_Score,Jordan
-88,KAZ,34.41,YR2021,HDI_Score,Kazakhstan
-89,KEN,4.62,YR2021,HDI_Score,Kenya
-90,KGZ,7.82,YR2021,HDI_Score,Kyrgyzstan
-91,KHM,5.7,YR2021,HDI_Score,Cambodia
-96,LAO,9.64,YR2021,HDI_Score,Lao People's Democratic Republic
-97,LBN,12.4,YR2021,HDI_Score,Lebanon
-98,LBR,2.71,YR2021,HDI_Score,Liberia
-99,LBY,16.08,YR2021,HDI_Score,Libya
-102,LKA,4.36,YR2021,HDI_Score,Sri Lanka
-107,MAR,6.95,YR2021,HDI_Score,Morocco
-109,MDA,3.41,YR2021,HDI_Score,Moldova
-110,MDG,1.51,YR2021,HDI_Score,Madagascar
-112,MEX,10.85,YR2021,HDI_Score,Mexico
-114,MKD,12.29,YR2021,HDI_Score,North Macedonia
-115,MLI,4.57,YR2021,HDI_Score,Mali
-117,MMR,2.06,YR2021,HDI_Score,Myanmar
-119,MNG,10.62,YR2021,HDI_Score,Mongolia
-120,MOZ,2.19,YR2021,HDI_Score,Mozambique
-121,MRT,7.75,YR2021,HDI_Score,Mauritania
-123,MWI,1.71,YR2021,HDI_Score,Malawi
-124,MYS,19.59,YR2021,HDI_Score,Malaysia
-125,NAM,11.92,YR2021,HDI_Score,Namibia
-126,NER,4.19,YR2021,HDI_Score,Niger
-127,NGA,3.6,YR2021,HDI_Score,Nigeria
-128,NIC,5.4,YR2021,HDI_Score,Nicaragua
-131,NPL,5.58,YR2021,HDI_Score,Nepal
-135,PAK,3.45,YR2021,HDI_Score,Pakistan
-136,PAN,13.48,YR2021,HDI_Score,Panama
-137,PER,9.43,YR2021,HDI_Score,Peru
-138,PHL,8.77,YR2021,HDI_Score,Philippines
-140,PNG,5.23,YR2021,HDI_Score,Papua New Guinea
-142,PRK,0.75,YR2021,HDI_Score,Democratic People's Republic of Korea
-144,PRY,18.93,YR2021,HDI_Score,Paraguay
-149,RWA,2.0,YR2021,HDI_Score,Rwanda
-151,SDN,11.25,YR2021,HDI_Score,Sudan
-152,SEN,4.09,YR2021,HDI_Score,Senegal
-155,SLE,2.12,YR2021,HDI_Score,Sierra Leone
-156,SLV,5.87,YR2021,HDI_Score,El Salvador
-158,SOM,3.5,YR2021,HDI_Score,Somalia
-159,SRB,15.65,YR2021,HDI_Score,Serbia
-160,SSD,4.78,YR2021,HDI_Score,South Sudan
-168,SYR,1.91,YR2021,HDI_Score,Syrian Arab Republic
-169,TCD,8.26,YR2021,HDI_Score,Chad
-170,TGO,4.14,YR2021,HDI_Score,Togo
-171,THA,11.75,YR2021,HDI_Score,Thailand
-172,TJK,5.75,YR2021,HDI_Score,Tajikistan
-173,TKM,13.13,YR2021,HDI_Score,Turkmenistan
-177,TUN,9.17,YR2021,HDI_Score,Tunisia
-178,TUR,17.49,YR2021,HDI_Score,Türkiye
-180,TZA,1.58,YR2021,HDI_Score,Tanzania
-181,UGA,1.92,YR2021,HDI_Score,Uganda
-182,UKR,11.91,YR2021,HDI_Score,Ukraine
-185,UZB,6.12,YR2021,HDI_Score,Uzbekistan
-187,VEN,9.6,YR2021,HDI_Score,Venezuela
-188,VNM,8.52,YR2021,HDI_Score,Viet Nam
-191,YEM,2.89,YR2021,HDI_Score,Yemen
-192,ZAF,7.55,YR2021,HDI_Score,South Africa
-193,ZMB,2.38,YR2021,HDI_Score,Zambia
-194,ZWE,1.21,YR2021,HDI_Score,Zimbabwe
+1,FSM,158.0,2019,Doing_Business_Rank,Micronesia
+2,PLW,145.0,2019,Doing_Business_Rank,Palau
+5,NPL,94.0,2019,Doing_Business_Rank,Nepal
+6,IND,62.0,2019,Doing_Business_Rank,India
+7,ALB,82.0,2019,Doing_Business_Rank,Albania
+8,VCT,130.0,2019,Doing_Business_Rank,Saint Vincent and the Grenadines
+11,SLE,163.0,2019,Doing_Business_Rank,Sierra Leone
+12,GHA,118.0,2019,Doing_Business_Rank,Ghana
+16,BWA,87.0,2019,Doing_Business_Rank,Botswana
+17,BDI,166.0,2019,Doing_Business_Rank,Burundi
+18,BFA,151.0,2019,Doing_Business_Rank,Burkina Faso
+21,MLI,148.0,2019,Doing_Business_Rank,Mali
+22,SLV,91.0,2019,Doing_Business_Rank,El Salvador
+23,ZMB,85.0,2019,Doing_Business_Rank,Zambia
+25,KAZ,25.0,2019,Doing_Business_Rank,Kazakhstan
+26,CMR,167.0,2019,Doing_Business_Rank,Cameroon
+29,NGA,131.0,2019,Doing_Business_Rank,Nigeria
+31,ZWE,140.0,2019,Doing_Business_Rank,Zimbabwe
+32,ZAF,84.0,2019,Doing_Business_Rank,South Africa
+34,MUS,13.0,2019,Doing_Business_Rank,Mauritius
+36,CIV,110.0,2019,Doing_Business_Rank,Côte d'Ivoire
+38,GEO,7.0,2019,Doing_Business_Rank,Georgia
+41,LCA,93.0,2019,Doing_Business_Rank,Saint Lucia
+48,BTN,89.0,2019,Doing_Business_Rank,Bhutan
+50,UZB,69.0,2019,Doing_Business_Rank,Uzbekistan
+51,MAR,53.0,2019,Doing_Business_Rank,Morocco
+56,COD,183.0,2019,Doing_Business_Rank,Democratic Republic of the Congo
+58,GNB,174.0,2019,Doing_Business_Rank,Guinea-Bissau
+60,CAF,184.0,2019,Doing_Business_Rank,Central African Republic
+61,SDN,171.0,2019,Doing_Business_Rank,Sudan
+66,PAK,108.0,2019,Doing_Business_Rank,Pakistan
+68,MYS,12.0,2019,Doing_Business_Rank,Malaysia
+69,BOL,150.0,2019,Doing_Business_Rank,Bolivia
+70,GTM,96.0,2019,Doing_Business_Rank,Guatemala
+74,SRB,44.0,2019,Doing_Business_Rank,Serbia
+75,EGY,114.0,2019,Doing_Business_Rank,Egypt
+79,CRI,74.0,2019,Doing_Business_Rank,Costa Rica
+81,UGA,116.0,2019,Doing_Business_Rank,Uganda
+83,SUR,162.0,2019,Doing_Business_Rank,Suriname
+88,COG,180.0,2019,Doing_Business_Rank,Congo
+94,BRA,124.0,2019,Doing_Business_Rank,Brazil
+95,STP,170.0,2019,Doing_Business_Rank,Sao Tome and Principe
+96,TJK,106.0,2019,Doing_Business_Rank,Tajikistan
+98,RWA,38.0,2019,Doing_Business_Rank,Rwanda
+100,MOZ,138.0,2019,Doing_Business_Rank,Mozambique
+103,TUN,78.0,2019,Doing_Business_Rank,Tunisia
+105,BLR,49.0,2019,Doing_Business_Rank,Belarus
+106,PER,76.0,2019,Doing_Business_Rank,Peru
+109,NER,132.0,2019,Doing_Business_Rank,Niger
+110,SYR,176.0,2019,Doing_Business_Rank,Syrian Arab Republic
+111,MMR,165.0,2019,Doing_Business_Rank,Myanmar
+112,LBR,175.0,2019,Doing_Business_Rank,Liberia
+113,GUY,134.0,2019,Doing_Business_Rank,Guyana
+115,WSM,98.0,2019,Doing_Business_Rank,Samoa
+116,TCD,182.0,2019,Doing_Business_Rank,Chad
+117,TZA,141.0,2019,Doing_Business_Rank,Tanzania
+121,MWI,109.0,2019,Doing_Business_Rank,Malawi
+122,JOR,75.0,2019,Doing_Business_Rank,Jordan
+126,HTI,179.0,2019,Doing_Business_Rank,Haiti
+128,PAN,86.0,2019,Doing_Business_Rank,Panama
+134,IRN,127.0,2019,Doing_Business_Rank,Iran
+140,PRY,125.0,2019,Doing_Business_Rank,Paraguay
+141,HND,133.0,2019,Doing_Business_Rank,Honduras
+142,GIN,156.0,2019,Doing_Business_Rank,Guinea
+144,GMB,155.0,2019,Doing_Business_Rank,Gambia
+146,MDA,48.0,2019,Doing_Business_Rank,Moldova
+147,PHL,95.0,2019,Doing_Business_Rank,Philippines
+150,GRD,146.0,2019,Doing_Business_Rank,Grenada
+151,GNQ,178.0,2019,Doing_Business_Rank,Equatorial Guinea
+152,MDV,147.0,2019,Doing_Business_Rank,Maldives
+153,ARM,47.0,2019,Doing_Business_Rank,Armenia
+154,AGO,177.0,2019,Doing_Business_Rank,Angola
+155,BLZ,135.0,2019,Doing_Business_Rank,Belize
+156,AZE,28.0,2019,Doing_Business_Rank,Azerbaijan
+159,VNM,70.0,2019,Doing_Business_Rank,Viet Nam
+163,LBN,143.0,2019,Doing_Business_Rank,Lebanon
+166,IDN,73.0,2019,Doing_Business_Rank,Indonesia
+167,UKR,64.0,2019,Doing_Business_Rank,Ukraine
+168,SOM,190.0,2019,Doing_Business_Rank,Somalia
+169,AFG,173.0,2019,Doing_Business_Rank,Afghanistan
+171,IRQ,172.0,2019,Doing_Business_Rank,Iraq
+173,COM,160.0,2019,Doing_Business_Rank,Comoros
+176,JAM,71.0,2019,Doing_Business_Rank,Jamaica
+177,TLS,181.0,2019,Doing_Business_Rank,Timor-Leste
+179,SLB,136.0,2019,Doing_Business_Rank,Solomon Islands
+181,ERI,189.0,2019,Doing_Business_Rank,Eritrea
+182,TGO,97.0,2019,Doing_Business_Rank,Togo
+183,MNG,81.0,2019,Doing_Business_Rank,Mongolia
+184,MNE,50.0,2019,Doing_Business_Rank,Montenegro
+187,CHN,32.0,2019,Doing_Business_Rank,China (People's Republic of)
+188,ATG,113.0,2019,Doing_Business_Rank,Antigua and Barbuda
+191,GAB,169.0,2019,Doing_Business_Rank,Gabon
+192,VEN,188.0,2019,Doing_Business_Rank,Venezuela
+194,NIC,142.0,2019,Doing_Business_Rank,Nicaragua
+198,ETH,159.0,2019,Doing_Business_Rank,Ethiopia
+199,THA,21.0,2019,Doing_Business_Rank,Thailand
+200,PNG,120.0,2019,Doing_Business_Rank,Papua New Guinea
+201,ECU,129.0,2019,Doing_Business_Rank,Ecuador
+202,FJI,102.0,2019,Doing_Business_Rank,Fiji
+203,DZA,157.0,2019,Doing_Business_Rank,Algeria
+206,SSD,185.0,2019,Doing_Business_Rank,South Sudan
+208,COL,67.0,2019,Doing_Business_Rank,Colombia
+209,BGD,168.0,2019,Doing_Business_Rank,Bangladesh
+212,LKA,99.0,2019,Doing_Business_Rank,Sri Lanka
+213,XKX,57.0,2019,Doing_Business_Rank,Kosovo
+215,LBY,186.0,2019,Doing_Business_Rank,Libya
+216,BEN,149.0,2019,Doing_Business_Rank,Benin
+221,TON,103.0,2019,Doing_Business_Rank,Tonga
+226,BIH,90.0,2019,Doing_Business_Rank,Bosnia and Herzegovina
+232,YEM,187.0,2019,Doing_Business_Rank,Yemen
+234,KEN,56.0,2019,Doing_Business_Rank,Kenya
+235,VUT,107.0,2019,Doing_Business_Rank,Vanuatu
+236,PSE,117.0,2019,Doing_Business_Rank,West Bank and Gaza Strip
+237,LAO,154.0,2019,Doing_Business_Rank,Lao People's Democratic Republic
+238,MRT,152.0,2019,Doing_Business_Rank,Mauritania
+240,DMA,111.0,2019,Doing_Business_Rank,Dominica
+241,LSO,122.0,2019,Doing_Business_Rank,Lesotho
+244,DJI,112.0,2019,Doing_Business_Rank,Djibouti
+246,CPV,137.0,2019,Doing_Business_Rank,Cabo Verde
+247,SEN,123.0,2019,Doing_Business_Rank,Senegal
+250,MHL,153.0,2019,Doing_Business_Rank,Marshall Islands
+251,KHM,144.0,2019,Doing_Business_Rank,Cambodia
+252,DOM,115.0,2019,Doing_Business_Rank,Dominican Republic
+253,MEX,60.0,2019,Doing_Business_Rank,Mexico
+254,MDG,161.0,2019,Doing_Business_Rank,Madagascar
+255,KIR,164.0,2019,Doing_Business_Rank,Kiribati
+258,TUR,34.0,2019,Doing_Business_Rank,Türkiye
+259,KGZ,80.0,2019,Doing_Business_Rank,Kyrgyzstan
+261,SWZ,121.0,2019,Doing_Business_Rank,Eswatini
+262,NAM,104.0,2019,Doing_Business_Rank,Namibia
+263,ARG,126.0,2019,Doing_Business_Rank,Argentina
+264,MKD,17.0,2019,Doing_Business_Rank,North Macedonia
+287,MLI,41.9,2020,National_Poverty_Ratio,Mali
+288,SLV,26.2,2020,National_Poverty_Ratio,El Salvador
+291,KAZ,5.3,2020,National_Poverty_Ratio,Kazakhstan
+304,GEO,21.3,2020,National_Poverty_Ratio,Georgia
+335,BOL,39.0,2020,National_Poverty_Ratio,Bolivia
+345,CRI,30.0,2020,National_Poverty_Ratio,Costa Rica
+371,BLR,4.8,2020,National_Poverty_Ratio,Belarus
+372,PER,30.1,2020,National_Poverty_Ratio,Peru
+406,PRY,26.9,2020,National_Poverty_Ratio,Paraguay
+412,MDA,26.8,2020,National_Poverty_Ratio,Moldova
+419,ARM,27.0,2020,National_Poverty_Ratio,Armenia
+432,IDN,9.8,2020,National_Poverty_Ratio,Indonesia
+433,UKR,1.4,2020,National_Poverty_Ratio,Ukraine
+449,MNG,27.8,2020,National_Poverty_Ratio,Mongolia
+453,CHN,0.0,2020,National_Poverty_Ratio,China (People's Republic of)
+465,THA,6.8,2020,National_Poverty_Ratio,Thailand
+467,ECU,33.0,2020,National_Poverty_Ratio,Ecuador
+474,COL,42.5,2020,National_Poverty_Ratio,Colombia
+501,VUT,15.9,2020,National_Poverty_Ratio,Vanuatu
+519,MEX,43.9,2020,National_Poverty_Ratio,Mexico
+521,KIR,21.9,2020,National_Poverty_Ratio,Kiribati
+525,KGZ,25.3,2020,National_Poverty_Ratio,Kyrgyzstan
+529,ARG,42.0,2020,National_Poverty_Ratio,Argentina
+273,ALB,21.8,2019,National_Poverty_Ratio,Albania
+297,ZWE,38.3,2019,National_Poverty_Ratio,Zimbabwe
+334,MYS,8.4,2019,National_Poverty_Ratio,Malaysia
+340,SRB,21.7,2019,National_Poverty_Ratio,Serbia
+347,UGA,20.3,2019,National_Poverty_Ratio,Uganda
+362,TJK,26.3,2019,National_Poverty_Ratio,Tajikistan
+387,MWI,50.7,2019,National_Poverty_Ratio,Malawi
+394,PAN,21.5,2019,National_Poverty_Ratio,Panama
+407,HND,48.0,2019,National_Poverty_Ratio,Honduras
+418,MDV,5.4,2019,National_Poverty_Ratio,Maldives
+450,MNE,22.6,2019,National_Poverty_Ratio,Montenegro
+468,FJI,24.1,2019,National_Poverty_Ratio,Fiji
+482,BEN,38.5,2019,National_Poverty_Ratio,Benin
+518,DOM,21.0,2019,National_Poverty_Ratio,Dominican Republic
+524,TUR,15.0,2019,National_Poverty_Ratio,Türkiye
+277,SLE,56.8,2018,National_Poverty_Ratio,Sierra Leone
+284,BFA,41.4,2018,National_Poverty_Ratio,Burkina Faso
+295,NGA,40.1,2018,National_Poverty_Ratio,Nigeria
+302,CIV,39.5,2018,National_Poverty_Ratio,Côte d'Ivoire
+324,GNB,47.7,2018,National_Poverty_Ratio,Guinea-Bissau
+332,PAK,21.9,2018,National_Poverty_Ratio,Pakistan
+375,NER,40.8,2018,National_Poverty_Ratio,Niger
+382,TCD,42.3,2018,National_Poverty_Ratio,Chad
+388,JOR,15.7,2018,National_Poverty_Ratio,Jordan
+408,GIN,43.7,2018,National_Poverty_Ratio,Guinea
+413,PHL,16.7,2018,National_Poverty_Ratio,Philippines
+420,AGO,32.3,2018,National_Poverty_Ratio,Angola
+425,VNM,6.7,2018,National_Poverty_Ratio,Viet Nam
+503,LAO,18.3,2018,National_Poverty_Ratio,Lao People's Democratic Republic
+530,MKD,21.6,2018,National_Poverty_Ratio,North Macedonia
+533,FSM,-3.18818719740072,2021,GDP_Growth,Micronesia
+534,PLW,-13.3333333333333,2021,GDP_Growth,Palau
+537,NPL,4.24694014145481,2021,GDP_Growth,Nepal
+538,IND,8.68122873083119,2021,GDP_Growth,India
+539,ALB,8.51550112324915,2021,GDP_Growth,Albania
+540,VCT,1.35211425548162,2021,GDP_Growth,Saint Vincent and the Grenadines
+543,SLE,4.10470008884118,2021,GDP_Growth,Sierra Leone
+544,GHA,5.35647789699578,2021,GDP_Growth,Ghana
+548,BWA,11.3700218626674,2021,GDP_Growth,Botswana
+549,BDI,1.79529999999997,2021,GDP_Growth,Burundi
+550,BFA,6.90634167337785,2021,GDP_Growth,Burkina Faso
+553,MLI,3.05261356942125,2021,GDP_Growth,Mali
+554,SLV,10.2784761168053,2021,GDP_Growth,El Salvador
+555,ZMB,4.59873403878439,2021,GDP_Growth,Zambia
+557,KAZ,4.29999999999981,2021,GDP_Growth,Kazakhstan
+558,CMR,3.64991688648905,2021,GDP_Growth,Cameroon
+561,NGA,3.64718654100696,2021,GDP_Growth,Nigeria
+563,ZWE,8.46801689759531,2021,GDP_Growth,Zimbabwe
+564,ZAF,4.9130966818804,2021,GDP_Growth,South Africa
+566,MUS,3.70361112396466,2021,GDP_Growth,Mauritius
+568,CIV,7.03795999997303,2021,GDP_Growth,Côte d'Ivoire
+570,GEO,10.4655372923886,2021,GDP_Growth,Georgia
+573,LCA,12.2298622129514,2021,GDP_Growth,Saint Lucia
+580,BTN,4.08761879846328,2021,GDP_Growth,Bhutan
+582,UZB,7.42011024162757,2021,GDP_Growth,Uzbekistan
+583,MAR,7.9296679419552,2021,GDP_Growth,Morocco
+588,COD,6.20015401075946,2021,GDP_Growth,Democratic Republic of the Congo
+590,GNB,3.80000242656607,2021,GDP_Growth,Guinea-Bissau
+592,CAF,0.900000006878756,2021,GDP_Growth,Central African Republic
+593,SDN,-1.86852020559263,2021,GDP_Growth,Sudan
+598,PAK,6.48708677384843,2021,GDP_Growth,Pakistan
+600,MYS,3.09215964982188,2021,GDP_Growth,Malaysia
+601,BOL,6.1058042252093,2021,GDP_Growth,Bolivia
+602,GTM,7.98076950609519,2021,GDP_Growth,Guatemala
+606,SRB,7.54991253537386,2021,GDP_Growth,Serbia
+607,EGY,3.3267420905086,2021,GDP_Growth,Egypt
+611,CRI,7.57956529907922,2021,GDP_Growth,Costa Rica
+613,UGA,3.53658034070898,2021,GDP_Growth,Uganda
+615,SUR,-2.72961882709443,2021,GDP_Growth,Suriname
+620,COG,-2.20000260638274,2021,GDP_Growth,Congo
+626,BRA,4.61942162067312,2021,GDP_Growth,Brazil
+627,STP,1.87792303794099,2021,GDP_Growth,Sao Tome and Principe
+628,TJK,9.2001904308498,2021,GDP_Growth,Tajikistan
+630,RWA,10.88451916081,2021,GDP_Growth,Rwanda
+632,MOZ,2.36398841807251,2021,GDP_Growth,Mozambique
+635,TUN,4.32277635659793,2021,GDP_Growth,Tunisia
+637,BLR,2.29987941172813,2021,GDP_Growth,Belarus
+638,PER,13.3495090777977,2021,GDP_Growth,Peru
+641,NER,1.38712917730062,2021,GDP_Growth,Niger
+643,MMR,-17.9129448042714,2021,GDP_Growth,Myanmar
+644,LBR,4.98671283481617,2021,GDP_Growth,Liberia
+645,GUY,20.0600109474921,2021,GDP_Growth,Guyana
+647,WSM,-7.08458799747405,2021,GDP_Growth,Samoa
+648,TCD,-1.1999905246095,2021,GDP_Growth,Chad
+649,TZA,4.27908454176213,2021,GDP_Growth,Tanzania
+653,MWI,2.75141640762955,2021,GDP_Growth,Malawi
+654,JOR,2.22813841296229,2021,GDP_Growth,Jordan
+658,HTI,-1.79823988931486,2021,GDP_Growth,Haiti
+660,PAN,15.3358739290709,2021,GDP_Growth,Panama
+661,NRU,1.49999999999999,2021,GDP_Growth,Nauru
+666,IRN,4.71977773157164,2021,GDP_Growth,Iran
+672,PRY,4.10241341536333,2021,GDP_Growth,Paraguay
+673,HND,12.5340960157739,2021,GDP_Growth,Honduras
+674,GIN,3.89999999990576,2021,GDP_Growth,Guinea
+676,GMB,4.26549216158563,2021,GDP_Growth,Gambia
+678,MDA,13.9445896006366,2021,GDP_Growth,Moldova
+679,PHL,5.70315596840621,2021,GDP_Growth,Philippines
+682,GRD,4.68794388997816,2021,GDP_Growth,Grenada
+683,GNQ,-0.945382916517076,2021,GDP_Growth,Equatorial Guinea
+684,MDV,41.7451005464201,2021,GDP_Growth,Maldives
+685,ARM,5.69999999999997,2021,GDP_Growth,Armenia
+686,AGO,1.09999999999965,2021,GDP_Growth,Angola
+687,BLZ,15.2261306532663,2021,GDP_Growth,Belize
+688,AZE,5.60003727280338,2021,GDP_Growth,Azerbaijan
+691,VNM,2.56155114232494,2021,GDP_Growth,Viet Nam
+695,LBN,-7.0012393603983,2021,GDP_Growth,Lebanon
+698,IDN,3.69124011191289,2021,GDP_Growth,Indonesia
+699,UKR,3.40000000000001,2021,GDP_Growth,Ukraine
+700,SOM,4.0491104880813,2021,GDP_Growth,Somalia
+701,AFG,-20.7371456208414,2021,GDP_Growth,Afghanistan
+703,IRQ,2.78333543533222,2021,GDP_Growth,Iraq
+705,COM,2.11219557695527,2021,GDP_Growth,Comoros
+708,JAM,4.60000000000001,2021,GDP_Growth,Jamaica
+709,TLS,5.29144191975139,2021,GDP_Growth,Timor-Leste
+711,SLB,-0.202448664802859,2021,GDP_Growth,Solomon Islands
+714,TGO,5.26059492471809,2021,GDP_Growth,Togo
+715,MNG,1.63676957584143,2021,GDP_Growth,Mongolia
+716,MNE,12.4343589851741,2021,GDP_Growth,Montenegro
+719,CHN,8.1097925807738,2021,GDP_Growth,China (People's Republic of)
+720,ATG,5.2708488395119,2021,GDP_Growth,Antigua and Barbuda
+723,GAB,1.462286510102,2021,GDP_Growth,Gabon
+726,NIC,10.3443407049189,2021,GDP_Growth,Nicaragua
+730,ETH,5.63730300819225,2021,GDP_Growth,Ethiopia
+731,THA,1.53383558441951,2021,GDP_Growth,Thailand
+732,PNG,0.299999999999983,2021,GDP_Growth,Papua New Guinea
+733,ECU,4.23525124172572,2021,GDP_Growth,Ecuador
+734,FJI,-5.11160739321285,2021,GDP_Growth,Fiji
+735,DZA,3.50000000049758,2021,GDP_Growth,Algeria
+740,COL,10.6770130738261,2021,GDP_Growth,Colombia
+741,BGD,6.93867508910159,2021,GDP_Growth,Bangladesh
+744,LKA,3.32676381781447,2021,GDP_Growth,Sri Lanka
+745,XKX,10.7456116066371,2021,GDP_Growth,Kosovo
+747,LBY,31.3724222267248,2021,GDP_Growth,Libya
+748,BEN,7.15572952939961,2021,GDP_Growth,Benin
+753,TON,-2.66750617523127,2021,GDP_Growth,Tonga
+757,CUB,1.25409286362381,2021,GDP_Growth,Cuba
+758,BIH,7.54559112979621,2021,GDP_Growth,Bosnia and Herzegovina
+766,KEN,7.51735538703886,2021,GDP_Growth,Kenya
+767,VUT,0.449256480524738,2021,GDP_Growth,Vanuatu
+768,PSE,7.05045093820793,2021,GDP_Growth,West Bank and Gaza Strip
+769,LAO,2.52835100102986,2021,GDP_Growth,Lao People's Democratic Republic
+770,MRT,2.44536827261913,2021,GDP_Growth,Mauritania
+772,DMA,6.68192571791273,2021,GDP_Growth,Dominica
+773,LSO,1.34762315508203,2021,GDP_Growth,Lesotho
+775,TUV,2.98507462686568,2021,GDP_Growth,Tuvalu
+776,DJI,4.81247738295502,2021,GDP_Growth,Djibouti
+778,CPV,6.952448693837,2021,GDP_Growth,Cabo Verde
+779,SEN,6.06449596752137,2021,GDP_Growth,Senegal
+782,MHL,1.11479505810898,2021,GDP_Growth,Marshall Islands
+783,KHM,3.02638936277746,2021,GDP_Growth,Cambodia
+784,DOM,12.2719902266266,2021,GDP_Growth,Dominican Republic
+785,MEX,4.72056529768081,2021,GDP_Growth,Mexico
+786,MDG,4.40234000007614,2021,GDP_Growth,Madagascar
+787,KIR,1.49999890403032,2021,GDP_Growth,Kiribati
+790,TUR,11.3534964080772,2021,GDP_Growth,Türkiye
+791,KGZ,3.61061269547005,2021,GDP_Growth,Kyrgyzstan
+793,SWZ,7.88330640157318,2021,GDP_Growth,Eswatini
+794,NAM,2.65605081999696,2021,GDP_Growth,Namibia
+795,ARG,10.3982494646904,2021,GDP_Growth,Argentina
+796,MKD,3.96426417144993,2021,GDP_Growth,North Macedonia
+642,SYR,-3.87368168638868,2020,GDP_Growth,Syrian Arab Republic
+532,TKM,6.3,2019,GDP_Growth,Turkmenistan
+764,YEM,0.752447587579127,2018,GDP_Growth,Yemen
+799,FSM,3642.09539419912,2021,GDP_PerCapita,Micronesia
+800,PLW,15144.5689629446,2021,GDP_PerCapita,Palau
+803,NPL,4209.75939278622,2021,GDP_PerCapita,Nepal
+804,IND,7241.98422960577,2021,GDP_PerCapita,India
+805,ALB,15810.4274320237,2021,GDP_PerCapita,Albania
+806,VCT,15045.301775408,2021,GDP_PerCapita,Saint Vincent and the Grenadines
+809,SLE,1773.89924631263,2021,GDP_PerCapita,Sierra Leone
+810,GHA,5971.12500879603,2021,GDP_PerCapita,Ghana
+814,BWA,16304.1533572515,2021,GDP_PerCapita,Botswana
+815,BDI,774.54289094215,2021,GDP_PerCapita,Burundi
+816,BFA,2394.70536478773,2021,GDP_PerCapita,Burkina Faso
+819,MLI,2329.70618076717,2021,GDP_PerCapita,Mali
+820,SLV,9981.88601960529,2021,GDP_PerCapita,El Salvador
+821,ZMB,3555.92022888679,2021,GDP_PerCapita,Zambia
+823,KAZ,28684.8980600358,2021,GDP_PerCapita,Kazakhstan
+824,CMR,4065.31160958852,2021,GDP_PerCapita,Cameroon
+827,NGA,5407.97945730588,2021,GDP_PerCapita,Nigeria
+829,ZWE,2323.68725749498,2021,GDP_PerCapita,Zimbabwe
+830,ZAF,14624.4151708036,2021,GDP_PerCapita,South Africa
+832,MUS,23035.2829995252,2021,GDP_PerCapita,Mauritius
+834,CIV,5850.05192548799,2021,GDP_PerCapita,Côte d'Ivoire
+836,GEO,17013.5663210827,2021,GDP_PerCapita,Georgia
+839,LCA,14332.2215080726,2021,GDP_PerCapita,Saint Lucia
+846,BTN,11983.3169712681,2021,GDP_PerCapita,Bhutan
+848,UZB,8497.44830751167,2021,GDP_PerCapita,Uzbekistan
+849,MAR,8852.9140625,2021,GDP_PerCapita,Morocco
+854,COD,1179.49914208545,2021,GDP_PerCapita,Democratic Republic of the Congo
+856,GNB,2011.94847990013,2021,GDP_PerCapita,Guinea-Bissau
+858,CAF,920.078470147941,2021,GDP_PerCapita,Central African Republic
+859,SDN,4065.97607421875,2021,GDP_PerCapita,Sudan
+864,PAK,5748.00595195309,2021,GDP_PerCapita,Pakistan
+866,MYS,28929.4741995534,2021,GDP_PerCapita,Malaysia
+867,BOL,8846.08196476077,2021,GDP_PerCapita,Bolivia
+868,GTM,9806.82822044911,2021,GDP_PerCapita,Guatemala
+872,SRB,21641.8514735572,2021,GDP_PerCapita,Serbia
+873,EGY,12706.4044506141,2021,GDP_PerCapita,Egypt
+877,CRI,22613.9813796966,2021,GDP_PerCapita,Costa Rica
+879,UGA,2467.89933666955,2021,GDP_PerCapita,Uganda
+881,SUR,16222.6756956317,2021,GDP_PerCapita,Suriname
+886,COG,3553.28798535731,2021,GDP_PerCapita,Congo
+892,BRA,16031.0861728725,2021,GDP_PerCapita,Brazil
+893,STP,4451.64251247711,2021,GDP_PerCapita,Sao Tome and Principe
+894,TJK,4288.1678896526,2021,GDP_PerCapita,Tajikistan
+896,RWA,2459.70734669588,2021,GDP_PerCapita,Rwanda
+898,MOZ,1347.72002356666,2021,GDP_PerCapita,Mozambique
+901,TUN,11282.4846258383,2021,GDP_PerCapita,Tunisia
+903,BLR,21698.5740886624,2021,GDP_PerCapita,Belarus
+904,PER,13748.5336151609,2021,GDP_PerCapita,Peru
+907,NER,1303.56736338191,2021,GDP_PerCapita,Niger
+909,MMR,4430.22242656668,2021,GDP_PerCapita,Myanmar
+910,LBR,1563.55292710265,2021,GDP_PerCapita,Liberia
+911,GUY,24086.9009171257,2021,GDP_PerCapita,Guyana
+913,WSM,6079.76427140823,2021,GDP_PerCapita,Samoa
+914,TCD,1566.04116081687,2021,GDP_PerCapita,Chad
+915,TZA,2836.24243164063,2021,GDP_PerCapita,Tanzania
+919,MWI,1638.15225128207,2021,GDP_PerCapita,Malawi
+920,JOR,10132.5038792039,2021,GDP_PerCapita,Jordan
+924,HTI,3153.12702047678,2021,GDP_PerCapita,Haiti
+926,PAN,31900.9417472655,2021,GDP_PerCapita,Panama
+927,NRU,13125.3483716561,2021,GDP_PerCapita,Nauru
+932,IRN,16484.075359618,2021,GDP_PerCapita,Iran
+938,PRY,15037.1896409496,2021,GDP_PerCapita,Paraguay
+939,HND,6121.565844251,2021,GDP_PerCapita,Honduras
+940,GIN,2900.6689577709,2021,GDP_PerCapita,Guinea
+942,GMB,2281.30552640672,2021,GDP_PerCapita,Gambia
+944,MDA,15390.4658255039,2021,GDP_PerCapita,Moldova
+945,PHL,8892.78934599976,2021,GDP_PerCapita,Philippines
+948,GRD,15037.8495447229,2021,GDP_PerCapita,Grenada
+949,GNQ,16080.1432631254,2021,GDP_PerCapita,Equatorial Guinea
+950,MDV,20615.3730798325,2021,GDP_PerCapita,Maldives
+951,ARM,15592.4873567251,2021,GDP_PerCapita,Armenia
+952,AGO,6491.12557839236,2021,GDP_PerCapita,Angola
+953,BLZ,9626.57357080288,2021,GDP_PerCapita,Belize
+954,AZE,15854.5508382533,2021,GDP_PerCapita,Azerbaijan
+957,VNM,11676.108560425,2021,GDP_PerCapita,Viet Nam
+961,LBN,14256.6897115588,2021,GDP_PerCapita,Lebanon
+964,IDN,13027.3006076005,2021,GDP_PerCapita,Indonesia
+965,UKR,14219.7900390625,2021,GDP_PerCapita,Ukraine
+966,SOM,1248.81248733232,2021,GDP_PerCapita,Somalia
+967,AFG,1665.80584219752,2021,GDP_PerCapita,Afghanistan
+969,IRQ,9846.04149957664,2021,GDP_PerCapita,Iraq
+971,COM,3546.84350218717,2021,GDP_PerCapita,Comoros
+974,JAM,10542.7377855943,2021,GDP_PerCapita,Jamaica
+975,TLS,5528.58052334426,2021,GDP_PerCapita,Timor-Leste
+977,SLB,2648.73220698842,2021,GDP_PerCapita,Solomon Islands
+980,TGO,2334.29932477999,2021,GDP_PerCapita,Togo
+981,MNG,12818.8794530072,2021,GDP_PerCapita,Mongolia
+982,MNE,23434.5326216029,2021,GDP_PerCapita,Montenegro
+985,CHN,19338.2340845061,2021,GDP_PerCapita,China (People's Republic of)
+986,ATG,21010.0035741979,2021,GDP_PerCapita,Antigua and Barbuda
+989,GAB,15175.6873376584,2021,GDP_PerCapita,Gabon
+992,NIC,6194.70034987169,2021,GDP_PerCapita,Nicaragua
+996,ETH,2547.71681384862,2021,GDP_PerCapita,Ethiopia
+997,THA,18760.7552218718,2021,GDP_PerCapita,Thailand
+998,PNG,4040.03944593112,2021,GDP_PerCapita,Papua New Guinea
+999,ECU,11720.6446417049,2021,GDP_PerCapita,Ecuador
+1000,FJI,11380.5694967405,2021,GDP_PerCapita,Fiji
+1001,DZA,12128.2749912629,2021,GDP_PerCapita,Algeria
+1006,COL,16903.7938821745,2021,GDP_PerCapita,Colombia
+1007,BGD,6493.80939271608,2021,GDP_PerCapita,Bangladesh
+1010,LKA,14706.54131846,2021,GDP_PerCapita,Sri Lanka
+1011,XKX,13055.9007751033,2021,GDP_PerCapita,Kosovo
+1013,LBY,24130.8298307057,2021,GDP_PerCapita,Libya
+1014,BEN,3649.04065049671,2021,GDP_PerCapita,Benin
+1019,TON,6748.5121181584,2021,GDP_PerCapita,Tonga
+1024,BIH,17488.5230977933,2021,GDP_PerCapita,Bosnia and Herzegovina
+1032,KEN,5211.17053346932,2021,GDP_PerCapita,Kenya
+1033,VUT,3057.41139994068,2021,GDP_PerCapita,Vanuatu
+1034,PSE,6199.45101755052,2021,GDP_PerCapita,West Bank and Gaza Strip
+1035,LAO,8620.64761768474,2021,GDP_PerCapita,Lao People's Democratic Republic
+1036,MRT,5830.81708784703,2021,GDP_PerCapita,Mauritania
+1038,DMA,11950.5571602386,2021,GDP_PerCapita,Dominica
+1039,LSO,2521.53066265486,2021,GDP_PerCapita,Lesotho
+1041,TUV,5409.51169243976,2021,GDP_PerCapita,Tuvalu
+1042,DJI,5397.67901830656,2021,GDP_PerCapita,Djibouti
+1044,CPV,6716.95633050564,2021,GDP_PerCapita,Cabo Verde
+1045,SEN,3840.03295935999,2021,GDP_PerCapita,Senegal
+1048,MHL,6549.62188427606,2021,GDP_PerCapita,Marshall Islands
+1049,KHM,4783.90361444401,2021,GDP_PerCapita,Cambodia
+1050,DOM,20462.5171301047,2021,GDP_PerCapita,Dominican Republic
+1051,MEX,19584.6717193723,2021,GDP_PerCapita,Mexico
+1052,MDG,1607.93522487357,2021,GDP_PerCapita,Madagascar
+1053,KIR,2128.07663835547,2021,GDP_PerCapita,Kiribati
+1056,TUR,30444.3877084747,2021,GDP_PerCapita,Türkiye
+1057,KGZ,5289.68712477187,2021,GDP_PerCapita,Kyrgyzstan
+1059,SWZ,9730.06812466724,2021,GDP_PerCapita,Eswatini
+1060,NAM,10038.7382721225,2021,GDP_PerCapita,Namibia
+1061,ARG,23649.670296221,2021,GDP_PerCapita,Argentina
+1062,MKD,18339.647582021,2021,GDP_PerCapita,North Macedonia
+798,TKM,15625.3606635627,2019,GDP_PerCapita,Turkmenistan
+14,ALB,1.0,2021,Rang_DEU_GrossODA,Albania
+18,BLR,2.0,2021,Rang_DEU_GrossODA,Belarus
+22,BIH,1.0,2021,Rang_DEU_GrossODA,Bosnia and Herzegovina
+26,XKX,2.0,2021,Rang_DEU_GrossODA,Kosovo
+30,MDA,3.0,2021,Rang_DEU_GrossODA,Moldova
+34,MNE,1.0,2021,Rang_DEU_GrossODA,Montenegro
+38,MKD,2.0,2021,Rang_DEU_GrossODA,North Macedonia
+42,SRB,1.0,2021,Rang_DEU_GrossODA,Serbia
+46,,19.0,2021,Rang_DEU_GrossODA,"Polynesia, regional"
+50,TUR,1.0,2021,Rang_DEU_GrossODA,Türkiye
+54,UKR,2.0,2021,Rang_DEU_GrossODA,Ukraine
+70,DZA,2.0,2021,Rang_DEU_GrossODA,Algeria
+74,EGY,4.0,2021,Rang_DEU_GrossODA,Egypt
+78,LBY,2.0,2021,Rang_DEU_GrossODA,Libya
+82,MAR,2.0,2021,Rang_DEU_GrossODA,Morocco
+86,TUN,1.0,2021,Rang_DEU_GrossODA,Tunisia
+102,BDI,4.0,2021,Rang_DEU_GrossODA,Burundi
+106,COM,10.0,2021,Rang_DEU_GrossODA,Comoros
+110,DJI,12.0,2021,Rang_DEU_GrossODA,Djibouti
+114,ERI,1.0,2021,Rang_DEU_GrossODA,Eritrea
+118,ETH,2.0,2021,Rang_DEU_GrossODA,Ethiopia
+122,KEN,3.0,2021,Rang_DEU_GrossODA,Kenya
+126,MDG,3.0,2021,Rang_DEU_GrossODA,Madagascar
+130,MWI,2.0,2021,Rang_DEU_GrossODA,Malawi
+134,MUS,3.0,2021,Rang_DEU_GrossODA,Mauritius
+138,MOZ,2.0,2021,Rang_DEU_GrossODA,Mozambique
+142,RWA,2.0,2021,Rang_DEU_GrossODA,Rwanda
+146,SOM,3.0,2021,Rang_DEU_GrossODA,Somalia
+150,SSD,2.0,2021,Rang_DEU_GrossODA,South Sudan
+154,SDN,2.0,2021,Rang_DEU_GrossODA,Sudan
+158,TZA,4.0,2021,Rang_DEU_GrossODA,Tanzania
+162,UGA,3.0,2021,Rang_DEU_GrossODA,Uganda
+166,ZMB,3.0,2021,Rang_DEU_GrossODA,Zambia
+170,ZWE,4.0,2021,Rang_DEU_GrossODA,Zimbabwe
+181,AGO,8.0,2021,Rang_DEU_GrossODA,Angola
+185,CMR,3.0,2021,Rang_DEU_GrossODA,Cameroon
+189,CAF,2.0,2021,Rang_DEU_GrossODA,Central African Republic
+193,TCD,3.0,2021,Rang_DEU_GrossODA,Chad
+197,COG,12.0,2021,Rang_DEU_GrossODA,Congo
+201,COD,2.0,2021,Rang_DEU_GrossODA,Democratic Republic of the Congo
+205,GNQ,10.0,2021,Rang_DEU_GrossODA,Equatorial Guinea
+209,GAB,5.0,2021,Rang_DEU_GrossODA,Gabon
+213,STP,22.0,2021,Rang_DEU_GrossODA,Sao Tome and Principe
+224,BWA,5.0,2021,Rang_DEU_GrossODA,Botswana
+228,SWZ,9.0,2021,Rang_DEU_GrossODA,Eswatini
+232,LSO,4.0,2021,Rang_DEU_GrossODA,Lesotho
+236,NAM,1.0,2021,Rang_DEU_GrossODA,Namibia
+240,ZAF,4.0,2021,Rang_DEU_GrossODA,South Africa
+251,BEN,3.0,2021,Rang_DEU_GrossODA,Benin
+255,BFA,3.0,2021,Rang_DEU_GrossODA,Burkina Faso
+259,CPV,10.0,2021,Rang_DEU_GrossODA,Cabo Verde
+263,CIV,3.0,2021,Rang_DEU_GrossODA,Côte d'Ivoire
+267,GMB,4.0,2021,Rang_DEU_GrossODA,Gambia
+271,GHA,1.0,2021,Rang_DEU_GrossODA,Ghana
+275,GIN,4.0,2021,Rang_DEU_GrossODA,Guinea
+279,GNB,10.0,2021,Rang_DEU_GrossODA,Guinea-Bissau
+283,LBR,3.0,2021,Rang_DEU_GrossODA,Liberia
+287,MLI,3.0,2021,Rang_DEU_GrossODA,Mali
+291,MRT,2.0,2021,Rang_DEU_GrossODA,Mauritania
+295,NER,2.0,2021,Rang_DEU_GrossODA,Niger
+299,NGA,3.0,2021,Rang_DEU_GrossODA,Nigeria
+303,SHN,15.0,2021,Rang_DEU_GrossODA,Saint Helena
+307,SEN,3.0,2021,Rang_DEU_GrossODA,Senegal
+311,SLE,3.0,2021,Rang_DEU_GrossODA,Sierra Leone
+315,TGO,1.0,2021,Rang_DEU_GrossODA,Togo
+342,ATG,19.0,2021,Rang_DEU_GrossODA,Antigua and Barbuda
+346,CUB,11.0,2021,Rang_DEU_GrossODA,Cuba
+350,DMA,6.0,2021,Rang_DEU_GrossODA,Dominica
+354,DOM,5.0,2021,Rang_DEU_GrossODA,Dominican Republic
+358,GRD,2.0,2021,Rang_DEU_GrossODA,Grenada
+362,HTI,6.0,2021,Rang_DEU_GrossODA,Haiti
+366,JAM,8.0,2021,Rang_DEU_GrossODA,Jamaica
+370,MSR,16.0,2021,Rang_DEU_GrossODA,Montserrat
+374,LCA,8.0,2021,Rang_DEU_GrossODA,Saint Lucia
+378,VCT,14.0,2021,Rang_DEU_GrossODA,Saint Vincent and the Grenadines
+390,BLZ,5.0,2021,Rang_DEU_GrossODA,Belize
+394,CRI,3.0,2021,Rang_DEU_GrossODA,Costa Rica
+398,SLV,6.0,2021,Rang_DEU_GrossODA,El Salvador
+402,GTM,4.0,2021,Rang_DEU_GrossODA,Guatemala
+406,HND,3.0,2021,Rang_DEU_GrossODA,Honduras
+410,MEX,3.0,2021,Rang_DEU_GrossODA,Mexico
+414,NIC,7.0,2021,Rang_DEU_GrossODA,Nicaragua
+418,PAN,6.0,2021,Rang_DEU_GrossODA,Panama
+433,ARG,3.0,2021,Rang_DEU_GrossODA,Argentina
+437,BOL,3.0,2021,Rang_DEU_GrossODA,Bolivia
+441,BRA,3.0,2021,Rang_DEU_GrossODA,Brazil
+445,COL,3.0,2021,Rang_DEU_GrossODA,Colombia
+449,ECU,3.0,2021,Rang_DEU_GrossODA,Ecuador
+453,GUY,6.0,2021,Rang_DEU_GrossODA,Guyana
+457,PRY,6.0,2021,Rang_DEU_GrossODA,Paraguay
+461,PER,2.0,2021,Rang_DEU_GrossODA,Peru
+465,SUR,9.0,2021,Rang_DEU_GrossODA,Suriname
+469,VEN,2.0,2021,Rang_DEU_GrossODA,Venezuela
+489,KHM,6.0,2021,Rang_DEU_GrossODA,Cambodia
+493,CHN,1.0,2021,Rang_DEU_GrossODA,China (People's Republic of)
+497,PRK,2.0,2021,Rang_DEU_GrossODA,Democratic People's Republic of Korea
+501,IDN,2.0,2021,Rang_DEU_GrossODA,Indonesia
+505,LAO,5.0,2021,Rang_DEU_GrossODA,Lao People's Democratic Republic
+509,MYS,4.0,2021,Rang_DEU_GrossODA,Malaysia
+513,MNG,4.0,2021,Rang_DEU_GrossODA,Mongolia
+517,PHL,6.0,2021,Rang_DEU_GrossODA,Philippines
+521,THA,3.0,2021,Rang_DEU_GrossODA,Thailand
+525,TLS,7.0,2021,Rang_DEU_GrossODA,Timor-Leste
+529,VNM,3.0,2021,Rang_DEU_GrossODA,Viet Nam
+541,AFG,2.0,2021,Rang_DEU_GrossODA,Afghanistan
+545,ARM,1.0,2021,Rang_DEU_GrossODA,Armenia
+549,AZE,2.0,2021,Rang_DEU_GrossODA,Azerbaijan
+553,BGD,5.0,2021,Rang_DEU_GrossODA,Bangladesh
+557,BTN,4.0,2021,Rang_DEU_GrossODA,Bhutan
+561,GEO,1.0,2021,Rang_DEU_GrossODA,Georgia
+565,IND,2.0,2021,Rang_DEU_GrossODA,India
+569,KAZ,1.0,2021,Rang_DEU_GrossODA,Kazakhstan
+573,KGZ,2.0,2021,Rang_DEU_GrossODA,Kyrgyzstan
+577,MDV,6.0,2021,Rang_DEU_GrossODA,Maldives
+581,MMR,5.0,2021,Rang_DEU_GrossODA,Myanmar
+585,NPL,4.0,2021,Rang_DEU_GrossODA,Nepal
+589,PAK,3.0,2021,Rang_DEU_GrossODA,Pakistan
+593,LKA,6.0,2021,Rang_DEU_GrossODA,Sri Lanka
+597,TJK,4.0,2021,Rang_DEU_GrossODA,Tajikistan
+601,TKM,3.0,2021,Rang_DEU_GrossODA,Turkmenistan
+605,UZB,4.0,2021,Rang_DEU_GrossODA,Uzbekistan
+625,IRN,1.0,2021,Rang_DEU_GrossODA,Iran
+629,IRQ,3.0,2021,Rang_DEU_GrossODA,Iraq
+633,JOR,2.0,2021,Rang_DEU_GrossODA,Jordan
+637,LBN,1.0,2021,Rang_DEU_GrossODA,Lebanon
+641,SYR,2.0,2021,Rang_DEU_GrossODA,Syrian Arab Republic
+645,PSE,1.0,2021,Rang_DEU_GrossODA,West Bank and Gaza Strip
+649,YEM,2.0,2021,Rang_DEU_GrossODA,Yemen
+669,FJI,7.0,2021,Rang_DEU_GrossODA,Fiji
+673,PNG,5.0,2021,Rang_DEU_GrossODA,Papua New Guinea
+677,SLB,7.0,2021,Rang_DEU_GrossODA,Solomon Islands
+681,VUT,22.0,2021,Rang_DEU_GrossODA,Vanuatu
+692,KIR,19.0,2021,Rang_DEU_GrossODA,Kiribati
+696,MHL,3.0,2021,Rang_DEU_GrossODA,Marshall Islands
+700,FSM,18.0,2021,Rang_DEU_GrossODA,Micronesia
+704,NRU,17.0,2021,Rang_DEU_GrossODA,Nauru
+708,PLW,7.0,2021,Rang_DEU_GrossODA,Palau
+719,NIU,16.0,2021,Rang_DEU_GrossODA,Niue
+723,WSM,7.0,2021,Rang_DEU_GrossODA,Samoa
+727,TKL,16.0,2021,Rang_DEU_GrossODA,Tokelau
+731,TON,9.0,2021,Rang_DEU_GrossODA,Tonga
+735,TUV,18.0,2021,Rang_DEU_GrossODA,Tuvalu
+739,WLF,3.0,2021,Rang_DEU_GrossODA,Wallis and Futuna
+748,,2.0,2021,Rang_DEU_GrossODA,"Polynesia, regional"
+0,AFG,180.0,2021,HDI_Rank,Afghanistan
+1,AGO,148.0,2021,HDI_Rank,Angola
+2,ALB,67.0,2021,HDI_Rank,Albania
+5,ARG,47.0,2021,HDI_Rank,Argentina
+6,ARM,85.0,2021,HDI_Rank,Armenia
+7,ATG,71.0,2021,HDI_Rank,Antigua and Barbuda
+10,AZE,91.0,2021,HDI_Rank,Azerbaijan
+11,BDI,187.0,2021,HDI_Rank,Burundi
+13,BEN,166.0,2021,HDI_Rank,Benin
+14,BFA,184.0,2021,HDI_Rank,Burkina Faso
+15,BGD,129.0,2021,HDI_Rank,Bangladesh
+19,BIH,74.0,2021,HDI_Rank,Bosnia and Herzegovina
+20,BLR,60.0,2021,HDI_Rank,Belarus
+21,BLZ,123.0,2021,HDI_Rank,Belize
+22,BOL,118.0,2021,HDI_Rank,Bolivia
+23,BRA,87.0,2021,HDI_Rank,Brazil
+26,BTN,127.0,2021,HDI_Rank,Bhutan
+27,BWA,117.0,2021,HDI_Rank,Botswana
+28,CAF,188.0,2021,HDI_Rank,Central African Republic
+32,CHN,79.0,2021,HDI_Rank,China (People's Republic of)
+33,CIV,159.0,2021,HDI_Rank,Côte d'Ivoire
+34,CMR,151.0,2021,HDI_Rank,Cameroon
+35,COD,179.0,2021,HDI_Rank,Democratic Republic of the Congo
+36,COG,153.0,2021,HDI_Rank,Congo
+37,COL,88.0,2021,HDI_Rank,Colombia
+38,COM,156.0,2021,HDI_Rank,Comoros
+39,CPV,128.0,2021,HDI_Rank,Cabo Verde
+40,CRI,58.0,2021,HDI_Rank,Costa Rica
+41,CUB,83.0,2021,HDI_Rank,Cuba
+45,DJI,171.0,2021,HDI_Rank,Djibouti
+46,DMA,102.0,2021,HDI_Rank,Dominica
+48,DOM,80.0,2021,HDI_Rank,Dominican Republic
+49,DZA,91.0,2021,HDI_Rank,Algeria
+50,ECU,95.0,2021,HDI_Rank,Ecuador
+51,EGY,97.0,2021,HDI_Rank,Egypt
+52,ERI,176.0,2021,HDI_Rank,Eritrea
+55,ETH,175.0,2021,HDI_Rank,Ethiopia
+57,FJI,99.0,2021,HDI_Rank,Fiji
+59,FSM,134.0,2021,HDI_Rank,Micronesia
+60,GAB,112.0,2021,HDI_Rank,Gabon
+62,GEO,63.0,2021,HDI_Rank,Georgia
+63,GHA,133.0,2021,HDI_Rank,Ghana
+64,GIN,182.0,2021,HDI_Rank,Guinea
+65,GMB,174.0,2021,HDI_Rank,Gambia
+66,GNB,177.0,2021,HDI_Rank,Guinea-Bissau
+67,GNQ,145.0,2021,HDI_Rank,Equatorial Guinea
+69,GRD,68.0,2021,HDI_Rank,Grenada
+70,GTM,135.0,2021,HDI_Rank,Guatemala
+71,GUY,108.0,2021,HDI_Rank,Guyana
+73,HND,137.0,2021,HDI_Rank,Honduras
+75,HTI,163.0,2021,HDI_Rank,Haiti
+77,IDN,114.0,2021,HDI_Rank,Indonesia
+78,IND,132.0,2021,HDI_Rank,India
+80,IRN,76.0,2021,HDI_Rank,Iran
+81,IRQ,121.0,2021,HDI_Rank,Iraq
+85,JAM,110.0,2021,HDI_Rank,Jamaica
+86,JOR,102.0,2021,HDI_Rank,Jordan
+88,KAZ,56.0,2021,HDI_Rank,Kazakhstan
+89,KEN,152.0,2021,HDI_Rank,Kenya
+90,KGZ,118.0,2021,HDI_Rank,Kyrgyzstan
+91,KHM,146.0,2021,HDI_Rank,Cambodia
+92,KIR,136.0,2021,HDI_Rank,Kiribati
+96,LAO,140.0,2021,HDI_Rank,Lao People's Democratic Republic
+97,LBN,112.0,2021,HDI_Rank,Lebanon
+98,LBR,178.0,2021,HDI_Rank,Liberia
+99,LBY,104.0,2021,HDI_Rank,Libya
+100,LCA,106.0,2021,HDI_Rank,Saint Lucia
+102,LKA,73.0,2021,HDI_Rank,Sri Lanka
+103,LSO,168.0,2021,HDI_Rank,Lesotho
+107,MAR,123.0,2021,HDI_Rank,Morocco
+109,MDA,80.0,2021,HDI_Rank,Moldova
+110,MDG,173.0,2021,HDI_Rank,Madagascar
+111,MDV,90.0,2021,HDI_Rank,Maldives
+112,MEX,86.0,2021,HDI_Rank,Mexico
+113,MHL,131.0,2021,HDI_Rank,Marshall Islands
+114,MKD,78.0,2021,HDI_Rank,North Macedonia
+115,MLI,186.0,2021,HDI_Rank,Mali
+117,MMR,149.0,2021,HDI_Rank,Myanmar
+118,MNE,49.0,2021,HDI_Rank,Montenegro
+119,MNG,96.0,2021,HDI_Rank,Mongolia
+120,MOZ,185.0,2021,HDI_Rank,Mozambique
+121,MRT,158.0,2021,HDI_Rank,Mauritania
+122,MUS,63.0,2021,HDI_Rank,Mauritius
+123,MWI,169.0,2021,HDI_Rank,Malawi
+124,MYS,62.0,2021,HDI_Rank,Malaysia
+125,NAM,139.0,2021,HDI_Rank,Namibia
+126,NER,189.0,2021,HDI_Rank,Niger
+127,NGA,163.0,2021,HDI_Rank,Nigeria
+128,NIC,126.0,2021,HDI_Rank,Nicaragua
+131,NPL,143.0,2021,HDI_Rank,Nepal
+135,PAK,161.0,2021,HDI_Rank,Pakistan
+136,PAN,61.0,2021,HDI_Rank,Panama
+137,PER,84.0,2021,HDI_Rank,Peru
+138,PHL,116.0,2021,HDI_Rank,Philippines
+139,PLW,80.0,2021,HDI_Rank,Palau
+140,PNG,156.0,2021,HDI_Rank,Papua New Guinea
+144,PRY,105.0,2021,HDI_Rank,Paraguay
+145,PSE,106.0,2021,HDI_Rank,West Bank and Gaza Strip
+149,RWA,165.0,2021,HDI_Rank,Rwanda
+151,SDN,172.0,2021,HDI_Rank,Sudan
+152,SEN,170.0,2021,HDI_Rank,Senegal
+154,SLB,155.0,2021,HDI_Rank,Solomon Islands
+155,SLE,181.0,2021,HDI_Rank,Sierra Leone
+156,SLV,125.0,2021,HDI_Rank,El Salvador
+159,SRB,63.0,2021,HDI_Rank,Serbia
+160,SSD,191.0,2021,HDI_Rank,South Sudan
+161,STP,138.0,2021,HDI_Rank,Sao Tome and Principe
+162,SUR,99.0,2021,HDI_Rank,Suriname
+166,SWZ,144.0,2021,HDI_Rank,Eswatini
+168,SYR,150.0,2021,HDI_Rank,Syrian Arab Republic
+169,TCD,190.0,2021,HDI_Rank,Chad
+170,TGO,162.0,2021,HDI_Rank,Togo
+171,THA,66.0,2021,HDI_Rank,Thailand
+172,TJK,122.0,2021,HDI_Rank,Tajikistan
+173,TKM,91.0,2021,HDI_Rank,Turkmenistan
+174,TLS,140.0,2021,HDI_Rank,Timor-Leste
+175,TON,91.0,2021,HDI_Rank,Tonga
+177,TUN,97.0,2021,HDI_Rank,Tunisia
+178,TUR,48.0,2021,HDI_Rank,Türkiye
+179,TUV,130.0,2021,HDI_Rank,Tuvalu
+180,TZA,160.0,2021,HDI_Rank,Tanzania
+181,UGA,166.0,2021,HDI_Rank,Uganda
+182,UKR,77.0,2021,HDI_Rank,Ukraine
+185,UZB,101.0,2021,HDI_Rank,Uzbekistan
+186,VCT,89.0,2021,HDI_Rank,Saint Vincent and the Grenadines
+187,VEN,120.0,2021,HDI_Rank,Venezuela
+188,VNM,115.0,2021,HDI_Rank,Viet Nam
+189,VUT,140.0,2021,HDI_Rank,Vanuatu
+190,WSM,111.0,2021,HDI_Rank,Samoa
+191,YEM,183.0,2021,HDI_Rank,Yemen
+192,ZAF,109.0,2021,HDI_Rank,South Africa
+193,ZMB,154.0,2021,HDI_Rank,Zambia
+194,ZWE,146.0,2021,HDI_Rank,Zimbabwe
+0,AFG,1.38,2021,HDI_Score,Afghanistan
+1,AGO,2.18,2021,HDI_Score,Angola
+2,ALB,12.96,2021,HDI_Score,Albania
+5,ARG,15.81,2021,HDI_Score,Argentina
+6,ARM,5.95,2021,HDI_Score,Armenia
+10,AZE,10.56,2021,HDI_Score,Azerbaijan
+11,BDI,1.71,2021,HDI_Score,Burundi
+13,BEN,3.4,2021,HDI_Score,Benin
+14,BFA,2.96,2021,HDI_Score,Burkina Faso
+15,BGD,2.88,2021,HDI_Score,Bangladesh
+19,BIH,14.44,2021,HDI_Score,Bosnia and Herzegovina
+20,BLR,5.59,2021,HDI_Score,Belarus
+21,BLZ,12.21,2021,HDI_Score,Belize
+22,BOL,11.32,2021,HDI_Score,Bolivia
+23,BRA,18.87,2021,HDI_Score,Brazil
+26,BTN,32.43,2021,HDI_Score,Bhutan
+27,BWA,14.19,2021,HDI_Score,Botswana
+28,CAF,1.57,2021,HDI_Score,Central African Republic
+32,CHN,21.96,2021,HDI_Score,China (People's Republic of)
+33,CIV,3.26,2021,HDI_Score,Côte d'Ivoire
+34,CMR,2.13,2021,HDI_Score,Cameroon
+35,COD,2.75,2021,HDI_Score,Democratic Republic of the Congo
+36,COG,1.88,2021,HDI_Score,Congo
+37,COL,9.09,2021,HDI_Score,Colombia
+40,CRI,14.43,2021,HDI_Score,Costa Rica
+41,CUB,9.19,2021,HDI_Score,Cuba
+45,DJI,15.86,2021,HDI_Score,Djibouti
+48,DOM,9.54,2021,HDI_Score,Dominican Republic
+49,DZA,11.21,2021,HDI_Score,Algeria
+50,ECU,7.74,2021,HDI_Score,Ecuador
+51,EGY,8.22,2021,HDI_Score,Egypt
+52,ERI,3.47,2021,HDI_Score,Eritrea
+55,ETH,0.47,2021,HDI_Score,Ethiopia
+60,GAB,9.15,2021,HDI_Score,Gabon
+62,GEO,10.35,2021,HDI_Score,Georgia
+63,GHA,3.92,2021,HDI_Score,Ghana
+64,GIN,4.77,2021,HDI_Score,Guinea
+65,GMB,3.77,2021,HDI_Score,Gambia
+67,GNQ,15.89,2021,HDI_Score,Equatorial Guinea
+70,GTM,7.24,2021,HDI_Score,Guatemala
+73,HND,6.06,2021,HDI_Score,Honduras
+75,HTI,2.4,2021,HDI_Score,Haiti
+77,IDN,6.77,2021,HDI_Score,Indonesia
+78,IND,5.23,2021,HDI_Score,India
+80,IRN,13.16,2021,HDI_Score,Iran
+81,IRQ,11.87,2021,HDI_Score,Iraq
+85,JAM,9.95,2021,HDI_Score,Jamaica
+86,JOR,7.03,2021,HDI_Score,Jordan
+88,KAZ,34.41,2021,HDI_Score,Kazakhstan
+89,KEN,4.62,2021,HDI_Score,Kenya
+90,KGZ,7.82,2021,HDI_Score,Kyrgyzstan
+91,KHM,5.7,2021,HDI_Score,Cambodia
+96,LAO,9.64,2021,HDI_Score,Lao People's Democratic Republic
+97,LBN,12.4,2021,HDI_Score,Lebanon
+98,LBR,2.71,2021,HDI_Score,Liberia
+99,LBY,16.08,2021,HDI_Score,Libya
+102,LKA,4.36,2021,HDI_Score,Sri Lanka
+107,MAR,6.95,2021,HDI_Score,Morocco
+109,MDA,3.41,2021,HDI_Score,Moldova
+110,MDG,1.51,2021,HDI_Score,Madagascar
+112,MEX,10.85,2021,HDI_Score,Mexico
+114,MKD,12.29,2021,HDI_Score,North Macedonia
+115,MLI,4.57,2021,HDI_Score,Mali
+117,MMR,2.06,2021,HDI_Score,Myanmar
+119,MNG,10.62,2021,HDI_Score,Mongolia
+120,MOZ,2.19,2021,HDI_Score,Mozambique
+121,MRT,7.75,2021,HDI_Score,Mauritania
+123,MWI,1.71,2021,HDI_Score,Malawi
+124,MYS,19.59,2021,HDI_Score,Malaysia
+125,NAM,11.92,2021,HDI_Score,Namibia
+126,NER,4.19,2021,HDI_Score,Niger
+127,NGA,3.6,2021,HDI_Score,Nigeria
+128,NIC,5.4,2021,HDI_Score,Nicaragua
+131,NPL,5.58,2021,HDI_Score,Nepal
+135,PAK,3.45,2021,HDI_Score,Pakistan
+136,PAN,13.48,2021,HDI_Score,Panama
+137,PER,9.43,2021,HDI_Score,Peru
+138,PHL,8.77,2021,HDI_Score,Philippines
+140,PNG,5.23,2021,HDI_Score,Papua New Guinea
+142,PRK,0.75,2021,HDI_Score,Democratic People's Republic of Korea
+144,PRY,18.93,2021,HDI_Score,Paraguay
+149,RWA,2.0,2021,HDI_Score,Rwanda
+151,SDN,11.25,2021,HDI_Score,Sudan
+152,SEN,4.09,2021,HDI_Score,Senegal
+155,SLE,2.12,2021,HDI_Score,Sierra Leone
+156,SLV,5.87,2021,HDI_Score,El Salvador
+158,SOM,3.5,2021,HDI_Score,Somalia
+159,SRB,15.65,2021,HDI_Score,Serbia
+160,SSD,4.78,2021,HDI_Score,South Sudan
+168,SYR,1.91,2021,HDI_Score,Syrian Arab Republic
+169,TCD,8.26,2021,HDI_Score,Chad
+170,TGO,4.14,2021,HDI_Score,Togo
+171,THA,11.75,2021,HDI_Score,Thailand
+172,TJK,5.75,2021,HDI_Score,Tajikistan
+173,TKM,13.13,2021,HDI_Score,Turkmenistan
+177,TUN,9.17,2021,HDI_Score,Tunisia
+178,TUR,17.49,2021,HDI_Score,Türkiye
+180,TZA,1.58,2021,HDI_Score,Tanzania
+181,UGA,1.92,2021,HDI_Score,Uganda
+182,UKR,11.91,2021,HDI_Score,Ukraine
+185,UZB,6.12,2021,HDI_Score,Uzbekistan
+187,VEN,9.6,2021,HDI_Score,Venezuela
+188,VNM,8.52,2021,HDI_Score,Viet Nam
+191,YEM,2.89,2021,HDI_Score,Yemen
+192,ZAF,7.55,2021,HDI_Score,South Africa
+193,ZMB,2.38,2021,HDI_Score,Zambia
+194,ZWE,1.21,2021,HDI_Score,Zimbabwe
