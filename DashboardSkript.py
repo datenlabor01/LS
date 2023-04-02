@@ -1,5 +1,6 @@
 import plotly.express as px
 import pandas as pd
+pd.options.mode.chained_assignment = None
 from dash import Dash, html, dcc, Input, Output, dash_table, State
 import dash_bootstrap_components as dbc
 
