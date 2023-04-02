@@ -5150,22 +5150,16 @@
 6698,CRI,Governance_Index,Costa Rica,2018,6.853964120370371
 6699,CIV,Governance_Index,Côte d'Ivoire,2018,5.542314814814815
 6700,CUB,Governance_Index,Cuba,2018,3.9269907407407407
-6701,DJI,Governance_Index,Djibouti,2018,-
 6702,DOM,Governance_Index,Dominican Republic,2018,5.570023148148148
 6703,ECU,Governance_Index,Ecuador,2018,4.987152777777778
 6704,EGY,Governance_Index,Egypt,2018,3.9632638888888887
 6705,SLV,Governance_Index,El Salvador,2018,6.566381172839506
-6706,GNQ,Governance_Index,Equatorial Guinea,2018,-
 6707,ERI,Governance_Index,Eritrea,2018,1.125077160493827
-6708,SWZ,Governance_Index,Eswatini,2018,-
 6709,ETH,Governance_Index,Ethiopia,2018,3.653981481481481
-6710,GAB,Governance_Index,Gabon,2018,-
-6711,GMB,Governance_Index,Gambia,2018,-
 6712,GEO,Governance_Index,Georgia,2018,5.8741666666666665
 6713,GHA,Governance_Index,Ghana,2018,6.182725694444445
 6714,GTM,Governance_Index,Guatemala,2018,4.521458333333333
 6715,GIN,Governance_Index,Guinea,2018,5.823981481481481
-6716,GNB,Governance_Index,Guinea-Bissau,2018,-
 6717,HTI,Governance_Index,Haiti,2018,3.3916358024691355
 6718,HND,Governance_Index,Honduras,2018,4.978209876543209
 6719,IND,Governance_Index,India,2018,6.021604938271604
@@ -5219,7 +5213,6 @@
 6767,TJK,Governance_Index,Tajikistan,2018,3.307947530864197
 6768,TZA,Governance_Index,Tanzania,2018,5.0720833333333335
 6769,THA,Governance_Index,Thailand,2018,3.8869984567901237
-6770,TLS,Governance_Index,Timor-Leste,2018,-
 6771,TGO,Governance_Index,Togo,2018,5.0996296296296295
 6772,TUN,Governance_Index,Tunisia,2018,5.326828703703704
 6773,TKM,Governance_Index,Turkmenistan,2018,2.5083333333333333
@@ -5230,111 +5223,104 @@
 6778,YEM,Governance_Index,Yemen,2018,1.70462962962963
 6779,ZMB,Governance_Index,Zambia,2018,5.058603395061727
 6780,ZWE,Governance_Index,Zimbabwe,2018,2.3682253086419753
-6781,AFG,Environment_Policy_Index,Afghanistan,2018,3
-6782,ALB,Environment_Policy_Index,Albania,2018,5
-6783,DZA,Environment_Policy_Index,Algeria,2018,5
-6784,AGO,Environment_Policy_Index,Angola,2018,3
-6785,ARG,Environment_Policy_Index,Argentina,2018,6
-6786,ARM,Environment_Policy_Index,Armenia,2018,5
-6787,AZE,Environment_Policy_Index,Azerbaijan,2018,5
-6788,BGD,Environment_Policy_Index,Bangladesh,2018,5
-6789,BLR,Environment_Policy_Index,Belarus,2018,6
-6790,BEN,Environment_Policy_Index,Benin,2018,5
-6791,BTN,Environment_Policy_Index,Bhutan,2018,8
-6792,BOL,Environment_Policy_Index,Bolivia,2018,5
-6793,BIH,Environment_Policy_Index,Bosnia and Herzegovina,2018,5
-6794,BWA,Environment_Policy_Index,Botswana,2018,7
-6795,BRA,Environment_Policy_Index,Brazil,2018,6
-6796,BFA,Environment_Policy_Index,Burkina Faso,2018,4
-6797,BDI,Environment_Policy_Index,Burundi,2018,4
-6798,KHM,Environment_Policy_Index,Cambodia,2018,2
-6799,CMR,Environment_Policy_Index,Cameroon,2018,4
-6800,CAF,Environment_Policy_Index,Central African Republic,2018,2
-6801,TCD,Environment_Policy_Index,Chad,2018,3
-6802,COL,Environment_Policy_Index,Colombia,2018,5
-6803,CRI,Environment_Policy_Index,Costa Rica,2018,8
-6804,CIV,Environment_Policy_Index,Côte d'Ivoire,2018,3
-6805,CUB,Environment_Policy_Index,Cuba,2018,5
-6806,DJI,Environment_Policy_Index,Djibouti,2018,-
-6807,DOM,Environment_Policy_Index,Dominican Republic,2018,4
-6808,ECU,Environment_Policy_Index,Ecuador,2018,5
-6809,EGY,Environment_Policy_Index,Egypt,2018,4
-6810,SLV,Environment_Policy_Index,El Salvador,2018,5
-6811,GNQ,Environment_Policy_Index,Equatorial Guinea,2018,-
-6812,ERI,Environment_Policy_Index,Eritrea,2018,2
-6813,SWZ,Environment_Policy_Index,Eswatini,2018,-
-6814,ETH,Environment_Policy_Index,Ethiopia,2018,2
-6815,GAB,Environment_Policy_Index,Gabon,2018,-
-6816,GMB,Environment_Policy_Index,Gambia,2018,-
-6817,GEO,Environment_Policy_Index,Georgia,2018,5
-6818,GHA,Environment_Policy_Index,Ghana,2018,5
-6819,GTM,Environment_Policy_Index,Guatemala,2018,3
-6820,GIN,Environment_Policy_Index,Guinea,2018,5
-6821,GNB,Environment_Policy_Index,Guinea-Bissau,2018,-
-6822,HTI,Environment_Policy_Index,Haiti,2018,2
-6823,HND,Environment_Policy_Index,Honduras,2018,4
-6824,IND,Environment_Policy_Index,India,2018,5
-6825,IDN,Environment_Policy_Index,Indonesia,2018,3
-6826,IRN,Environment_Policy_Index,Iran,2018,3
-6827,IRQ,Environment_Policy_Index,Iraq,2018,2
-6828,JAM,Environment_Policy_Index,Jamaica,2018,5
-6829,JOR,Environment_Policy_Index,Jordan,2018,5
-6830,KAZ,Environment_Policy_Index,Kazakhstan,2018,4
-6831,KEN,Environment_Policy_Index,Kenya,2018,4
-6832,XKX,Environment_Policy_Index,Kosovo,2018,4
-6833,KGZ,Environment_Policy_Index,Kyrgyzstan,2018,3
-6834,LBN,Environment_Policy_Index,Lebanon,2018,2
-6835,LSO,Environment_Policy_Index,Lesotho,2018,4
-6836,LBR,Environment_Policy_Index,Liberia,2018,5
-6837,LBY,Environment_Policy_Index,Libya,2018,3
-6838,MDG,Environment_Policy_Index,Madagascar,2018,5
-6839,MWI,Environment_Policy_Index,Malawi,2018,3
-6840,MYS,Environment_Policy_Index,Malaysia,2018,5
-6841,MLI,Environment_Policy_Index,Mali,2018,3
-6842,MRT,Environment_Policy_Index,Mauritania,2018,4
-6843,MUS,Environment_Policy_Index,Mauritius,2018,7
-6844,MEX,Environment_Policy_Index,Mexico,2018,5
-6845,MDA,Environment_Policy_Index,Moldova,2018,5
-6846,MNG,Environment_Policy_Index,Mongolia,2018,5
-6847,MNE,Environment_Policy_Index,Montenegro,2018,6
-6848,MAR,Environment_Policy_Index,Morocco,2018,6
-6849,MOZ,Environment_Policy_Index,Mozambique,2018,4
-6850,MMR,Environment_Policy_Index,Myanmar,2018,3
-6851,NAM,Environment_Policy_Index,Namibia,2018,6
-6852,NPL,Environment_Policy_Index,Nepal,2018,4
-6853,NIC,Environment_Policy_Index,Nicaragua,2018,4
-6854,NER,Environment_Policy_Index,Niger,2018,3
-6855,NGA,Environment_Policy_Index,Nigeria,2018,3
-6856,MKD,Environment_Policy_Index,North Macedonia,2018,5
-6857,PAK,Environment_Policy_Index,Pakistan,2018,3
-6858,PAN,Environment_Policy_Index,Panama,2018,6
-6859,PNG,Environment_Policy_Index,Papua New Guinea,2018,4
-6860,PRY,Environment_Policy_Index,Paraguay,2018,4
-6861,PER,Environment_Policy_Index,Peru,2018,6
-6862,PHL,Environment_Policy_Index,Philippines,2018,7
-6863,RWA,Environment_Policy_Index,Rwanda,2018,6
-6864,SEN,Environment_Policy_Index,Senegal,2018,5
-6865,SRB,Environment_Policy_Index,Serbia,2018,7
-6866,SLE,Environment_Policy_Index,Sierra Leone,2018,4
-6867,SOM,Environment_Policy_Index,Somalia,2018,1
-6868,ZAF,Environment_Policy_Index,South Africa,2018,7
-6869,SSD,Environment_Policy_Index,South Sudan,2018,1
-6870,LKA,Environment_Policy_Index,Sri Lanka,2018,4
-6871,SDN,Environment_Policy_Index,Sudan,2018,2
-6872,TJK,Environment_Policy_Index,Tajikistan,2018,3
-6873,TZA,Environment_Policy_Index,Tanzania,2018,3
-6874,THA,Environment_Policy_Index,Thailand,2018,6
-6875,TLS,Environment_Policy_Index,Timor-Leste,2018,-
-6876,TGO,Environment_Policy_Index,Togo,2018,4
-6877,TUN,Environment_Policy_Index,Tunisia,2018,6
-6878,TKM,Environment_Policy_Index,Turkmenistan,2018,3
-6879,UGA,Environment_Policy_Index,Uganda,2018,5
-6880,UKR,Environment_Policy_Index,Ukraine,2018,5
-6881,UZB,Environment_Policy_Index,Uzbekistan,2018,5
-6882,VEN,Environment_Policy_Index,Venezuela,2018,3
-6883,YEM,Environment_Policy_Index,Yemen,2018,2
-6884,ZMB,Environment_Policy_Index,Zambia,2018,3
-6885,ZWE,Environment_Policy_Index,Zimbabwe,2018,3
+6781,AFG,Environment_Policy_Index,Afghanistan,2018,3.0
+6782,ALB,Environment_Policy_Index,Albania,2018,5.0
+6783,DZA,Environment_Policy_Index,Algeria,2018,5.0
+6784,AGO,Environment_Policy_Index,Angola,2018,3.0
+6785,ARG,Environment_Policy_Index,Argentina,2018,6.0
+6786,ARM,Environment_Policy_Index,Armenia,2018,5.0
+6787,AZE,Environment_Policy_Index,Azerbaijan,2018,5.0
+6788,BGD,Environment_Policy_Index,Bangladesh,2018,5.0
+6789,BLR,Environment_Policy_Index,Belarus,2018,6.0
+6790,BEN,Environment_Policy_Index,Benin,2018,5.0
+6791,BTN,Environment_Policy_Index,Bhutan,2018,8.0
+6792,BOL,Environment_Policy_Index,Bolivia,2018,5.0
+6793,BIH,Environment_Policy_Index,Bosnia and Herzegovina,2018,5.0
+6794,BWA,Environment_Policy_Index,Botswana,2018,7.0
+6795,BRA,Environment_Policy_Index,Brazil,2018,6.0
+6796,BFA,Environment_Policy_Index,Burkina Faso,2018,4.0
+6797,BDI,Environment_Policy_Index,Burundi,2018,4.0
+6798,KHM,Environment_Policy_Index,Cambodia,2018,2.0
+6799,CMR,Environment_Policy_Index,Cameroon,2018,4.0
+6800,CAF,Environment_Policy_Index,Central African Republic,2018,2.0
+6801,TCD,Environment_Policy_Index,Chad,2018,3.0
+6802,COL,Environment_Policy_Index,Colombia,2018,5.0
+6803,CRI,Environment_Policy_Index,Costa Rica,2018,8.0
+6804,CIV,Environment_Policy_Index,Côte d'Ivoire,2018,3.0
+6805,CUB,Environment_Policy_Index,Cuba,2018,5.0
+6807,DOM,Environment_Policy_Index,Dominican Republic,2018,4.0
+6808,ECU,Environment_Policy_Index,Ecuador,2018,5.0
+6809,EGY,Environment_Policy_Index,Egypt,2018,4.0
+6810,SLV,Environment_Policy_Index,El Salvador,2018,5.0
+6812,ERI,Environment_Policy_Index,Eritrea,2018,2.0
+6814,ETH,Environment_Policy_Index,Ethiopia,2018,2.0
+6817,GEO,Environment_Policy_Index,Georgia,2018,5.0
+6818,GHA,Environment_Policy_Index,Ghana,2018,5.0
+6819,GTM,Environment_Policy_Index,Guatemala,2018,3.0
+6820,GIN,Environment_Policy_Index,Guinea,2018,5.0
+6822,HTI,Environment_Policy_Index,Haiti,2018,2.0
+6823,HND,Environment_Policy_Index,Honduras,2018,4.0
+6824,IND,Environment_Policy_Index,India,2018,5.0
+6825,IDN,Environment_Policy_Index,Indonesia,2018,3.0
+6826,IRN,Environment_Policy_Index,Iran,2018,3.0
+6827,IRQ,Environment_Policy_Index,Iraq,2018,2.0
+6828,JAM,Environment_Policy_Index,Jamaica,2018,5.0
+6829,JOR,Environment_Policy_Index,Jordan,2018,5.0
+6830,KAZ,Environment_Policy_Index,Kazakhstan,2018,4.0
+6831,KEN,Environment_Policy_Index,Kenya,2018,4.0
+6832,XKX,Environment_Policy_Index,Kosovo,2018,4.0
+6833,KGZ,Environment_Policy_Index,Kyrgyzstan,2018,3.0
+6834,LBN,Environment_Policy_Index,Lebanon,2018,2.0
+6835,LSO,Environment_Policy_Index,Lesotho,2018,4.0
+6836,LBR,Environment_Policy_Index,Liberia,2018,5.0
+6837,LBY,Environment_Policy_Index,Libya,2018,3.0
+6838,MDG,Environment_Policy_Index,Madagascar,2018,5.0
+6839,MWI,Environment_Policy_Index,Malawi,2018,3.0
+6840,MYS,Environment_Policy_Index,Malaysia,2018,5.0
+6841,MLI,Environment_Policy_Index,Mali,2018,3.0
+6842,MRT,Environment_Policy_Index,Mauritania,2018,4.0
+6843,MUS,Environment_Policy_Index,Mauritius,2018,7.0
+6844,MEX,Environment_Policy_Index,Mexico,2018,5.0
+6845,MDA,Environment_Policy_Index,Moldova,2018,5.0
+6846,MNG,Environment_Policy_Index,Mongolia,2018,5.0
+6847,MNE,Environment_Policy_Index,Montenegro,2018,6.0
+6848,MAR,Environment_Policy_Index,Morocco,2018,6.0
+6849,MOZ,Environment_Policy_Index,Mozambique,2018,4.0
+6850,MMR,Environment_Policy_Index,Myanmar,2018,3.0
+6851,NAM,Environment_Policy_Index,Namibia,2018,6.0
+6852,NPL,Environment_Policy_Index,Nepal,2018,4.0
+6853,NIC,Environment_Policy_Index,Nicaragua,2018,4.0
+6854,NER,Environment_Policy_Index,Niger,2018,3.0
+6855,NGA,Environment_Policy_Index,Nigeria,2018,3.0
+6856,MKD,Environment_Policy_Index,North Macedonia,2018,5.0
+6857,PAK,Environment_Policy_Index,Pakistan,2018,3.0
+6858,PAN,Environment_Policy_Index,Panama,2018,6.0
+6859,PNG,Environment_Policy_Index,Papua New Guinea,2018,4.0
+6860,PRY,Environment_Policy_Index,Paraguay,2018,4.0
+6861,PER,Environment_Policy_Index,Peru,2018,6.0
+6862,PHL,Environment_Policy_Index,Philippines,2018,7.0
+6863,RWA,Environment_Policy_Index,Rwanda,2018,6.0
+6864,SEN,Environment_Policy_Index,Senegal,2018,5.0
+6865,SRB,Environment_Policy_Index,Serbia,2018,7.0
+6866,SLE,Environment_Policy_Index,Sierra Leone,2018,4.0
+6867,SOM,Environment_Policy_Index,Somalia,2018,1.0
+6868,ZAF,Environment_Policy_Index,South Africa,2018,7.0
+6869,SSD,Environment_Policy_Index,South Sudan,2018,1.0
+6870,LKA,Environment_Policy_Index,Sri Lanka,2018,4.0
+6871,SDN,Environment_Policy_Index,Sudan,2018,2.0
+6872,TJK,Environment_Policy_Index,Tajikistan,2018,3.0
+6873,TZA,Environment_Policy_Index,Tanzania,2018,3.0
+6874,THA,Environment_Policy_Index,Thailand,2018,6.0
+6876,TGO,Environment_Policy_Index,Togo,2018,4.0
+6877,TUN,Environment_Policy_Index,Tunisia,2018,6.0
+6878,TKM,Environment_Policy_Index,Turkmenistan,2018,3.0
+6879,UGA,Environment_Policy_Index,Uganda,2018,5.0
+6880,UKR,Environment_Policy_Index,Ukraine,2018,5.0
+6881,UZB,Environment_Policy_Index,Uzbekistan,2018,5.0
+6882,VEN,Environment_Policy_Index,Venezuela,2018,3.0
+6883,YEM,Environment_Policy_Index,Yemen,2018,2.0
+6884,ZMB,Environment_Policy_Index,Zambia,2018,3.0
+6885,ZWE,Environment_Policy_Index,Zimbabwe,2018,3.0
 6886,SLV,Population growth (annual %),El Salvador,2019,0.0617207329334854
 6887,IND,Population growth (annual %),India,2019,1.02531077187097
 6888,CUB,Population growth (annual %),Cuba,2019,-0.101983052203958
