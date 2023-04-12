@@ -5,7 +5,7 @@ from dash import Dash, html, dcc, Input, Output, dash_table, State
 import dash_bootstrap_components as dbc
 
 df_data = pd.read_csv("https://raw.githubusercontent.com/datenlabor01/LS/main/landubersicht_data.csv")
-df_data["value"] = round(df_data["value"], 2)
+df_data["Value"] = round(df_data["Value"], 2)
 app = Dash(external_stylesheets = [dbc.themes.LUX])
 
 #Dropdown for indicator: 
@@ -28,7 +28,7 @@ app.layout = dbc.Container([
          html.H1(children='Prototyp Länderüberblick'),
          html.P(children = "Das ist ein Prototyp, der Fehler enthalten kann. Skript, Datenquellen und Erklärungen sind aufrufbar unter https://github.com/datenlabor01/LS.")],
          style={'textAlign': 'center'}),
-      #App button:
+
       dbc.Row([
          dbc.Button(children = "Über diese App", id = "textbutton", color = "light", className = "me-1",
                     n_clicks=0, style={'textAlign': 'center', "width": "30rem"})
@@ -38,7 +38,7 @@ app.layout = dbc.Container([
                dbc.Badge(text2, className="text-wrap"),
                ])), id="collapse", style={'textAlign': 'center', "width": "60rem"}, is_open=False),
       ], justify = "center"),
-      #Dynamic elements:
+
       dbc.Row([
         dbc.Col([indicator_dropdown, html.Br(), year_slider], width = 8),
       ], justify = "center"),
@@ -108,13 +108,11 @@ def year_options(selected_indicator):
    return marks_slider, max_slider, min_slider, slider_value
 
 @app.callback(
-    [Output('map', 'figure'), Output('buble_chart', 'figure'), Output('line_chart', 'figure'),
-     Output('per_chart', 'figure'), Output('score_chart', "figure"),
-     Output(my_table, "data"), Output(my_table, "columns")],
-    [Input(indicator_dropdown, 'value'), Input(country_dropdown, 'value'), Input(year_slider, 'value')]
+    [Output('map', 'figure'), Output('buble_chart', 'figure')],
+    [Input(indicator_dropdown, 'value'), Input(year_slider, 'value')]
 )
 
-def update_map(selected_indicator, selected_country, year_slider):
+def update_map(selected_indicator, year_slider):
 
    if (selected_indicator == "All") | (selected_indicator == None):
       dat_map = df_data[df_data["Series"] == "Gross_ODA_Germany (in US$)"]
@@ -124,7 +122,33 @@ def update_map(selected_indicator, selected_country, year_slider):
 
    slider_txt = dat_map["Year"].unique()
    dat_map = dat_map[dat_map["Year"] == slider_txt[year_slider]]
-   dat_table_full = df_data.pivot_table(index=['Country', "Year"], columns='Series', values='value').reset_index()
+   dat_table_full = df_data.pivot_table(index=['Country', "Year"], columns='Series', values='Value').reset_index()
+
+   figMap = px.choropleth(dat_map, locations = "index", locationmode="ISO-3", hover_data= ["Country", "Series"],
+                        color_continuous_scale="Fall", color="Value", range_color=(min(dat_map["Value"]), max(dat_map["Value"])))
+   if slider_txt[year_slider] in df_data[df_data["Series"] == "Gross_ODA_Germany (in US$)"]["Year"].unique():
+      figBubble = px.scatter(dat_table_full[dat_table_full.Year == slider_txt[year_slider]], 
+                             x='GDP current prices (in US$)', y= selected_indicator, color = "Country",
+	         size="Gross_ODA_Germany (in US$)", log_x=True, size_max=80)
+      title_txt ="Gewählter Indikator wird zur y-Achse. x-Achse ist GDP, Blasengröße BMZs Brutto ODA"
+   else:
+      figBubble = px.scatter()
+      title_txt = "Für gewähltes Jahr fehlen Daten"
+   
+   figBubble.update_layout(showlegend=False, title = title_txt, title_x=0.5)
+
+   return figMap, figBubble
+
+@app.callback(
+    [Output('line_chart', 'figure'),
+     Output('per_chart', 'figure'), Output('score_chart', "figure"),
+     Output(my_table, "data"), Output(my_table, "columns")],
+    Input(country_dropdown, 'value')
+)
+
+def update_figures(selected_country):
+
+   dat_table_full = df_data.pivot_table(index=['Country', "Year"], columns='Series', values='Value').reset_index()
 
    if ("All" == selected_country) | (selected_country == None):
       dat_fil = df_data[df_data["Country"] == "Iran"]
@@ -133,38 +157,24 @@ def update_map(selected_indicator, selected_country, year_slider):
       dat_fil = df_data[df_data["Country"] == selected_country]
       dat_table = dat_table_full[dat_table_full["Country"] == selected_country]
 
-   if dat_map.empty == False:
-      figMap = px.choropleth(dat_map, locations = "index", locationmode="ISO-3", hover_data= ["Country", "Series"],
-                             color_continuous_scale="Fall", color="value", range_color=(min(dat_map["value"]), max(dat_map["value"])))
-    
-   if slider_txt[year_slider] in df_data[df_data["Series"] == "Gross_ODA_Germany (in US$)"]["Year"].unique():
-      figBubble = px.scatter(dat_table_full[dat_table_full.Year == slider_txt[year_slider]], x='GDP (current US$)', y= selected_indicator, color = "Country",
-	         size="Gross_ODA_Germany (in US$)", log_x=True, size_max=60)
-      title_txt ="Gewählter Indikator wird zur y-Achse. x-Achse ist GDP, Blasengröße DEUs ODA"
-   else:
-      figBubble = px.scatter()
-      title_txt = "Für gewähltes Jahr fehlen Daten"
-   
-   figBubble.update_layout(showlegend=False, title = title_txt, title_x=0.5)
-      
    dat_fil['Year'] = dat_fil['Year'].astype(str)
-   df1 = dat_fil[(dat_fil['Series'].str.contains("US"))&(dat_fil['Series'] != 'GDP (current US$)')]
+   df1 = dat_fil[(dat_fil['Series'].str.contains("US"))&(dat_fil['Series'] != 'GDP current prices (in US$)')]
 
-   figLine = px.line(df1, x='Year', y='value', color ="Series")
-   figLine.add_traces(px.line(dat_fil[dat_fil['Series'] == 'GDP (current US$)'], 
-                                 x='Year', y='value', color ="Series", symbol="Series").update_traces(yaxis='y2').data)
+   figLine = px.line(df1, x='Year', y='Value', color ="Series", log_y=True)
+   figLine.add_traces(px.line(dat_fil[dat_fil['Series'] == 'GDP current prices (in US$)'], 
+                                 x='Year', y='Value', color ="Series", symbol="Series").update_traces(yaxis='y2').data)
    figLine.update_layout(showlegend=False, yaxis=dict(title='in USD'), 
                   yaxis2=dict(title='GDP in USD (blue dotted line)', overlaying='y', side='right'))
    
    searchstring = ["Corruption_Perception_Index", "Gini index", 
                    "Governance_Index", "HDI-Score", "Environment_Policy_Index"]
-   figScore = px.line(dat_fil[dat_fil.Series.str.contains('|'.join(searchstring))], x="Year", y="value", color='Series', symbol="Series")
+   figScore = px.line(dat_fil[dat_fil.Series.str.contains('|'.join(searchstring))], x="Year", y="Value", color='Series', symbol="Series")
    figScore.update_layout(showlegend=False, yaxis=dict(title='Scales from 0-100'))
 
-   figPercent = px.line(dat_fil[dat_fil.Series.str.contains("%")], x="Year", y="value", color='Series', symbol="Series")
+   figPercent = px.line(dat_fil[dat_fil.Series.str.contains("%")], x="Year", y="Value", color='Series', symbol="Series")
    figPercent.update_layout(showlegend=False, yaxis=dict(title='in %'))
 
-   return figMap, figBubble, figLine, figPercent, figScore, dat_table.to_dict("records"), [{"name": i, "id": i} for i in dat_table.columns]
+   return figLine, figPercent, figScore, dat_table.to_dict("records"), [{"name": i, "id": i} for i in dat_table.columns]
 
 if __name__ == '__main__':
     app.run_server(debug=True)
