@@ -26,7 +26,7 @@ app.layout = dbc.Container([
       dbc.Row([
          html.Div(html.Img(src="https://github.com/datenlabor01/LS/raw/main/logo.png", style={'height':'80%', 'width':'20%'})),
          html.H1(children='Prototyp Länderüberblick'),
-         html.P(children = "Das ist ein Prototyp, der Fehler enthalten kann. Skript, Datenquellen und Erklärungen sind aufrufbar unter https://github.com/datenlabor01/LS.")],
+         html.P(children = "Das ist ein Prototyp, der Fehler enthalten kann. Skript, Datenquellen und Erklärungen sind aufrufbar unter (Link).")],
          style={'textAlign': 'center'}),
 
       dbc.Row([
